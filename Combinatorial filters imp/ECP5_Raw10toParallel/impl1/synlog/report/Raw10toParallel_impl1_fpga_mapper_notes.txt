@@ -1,0 +1,76 @@
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MT206 |Auto Constrain mode is enabled
+@N: BZ173 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_ctrl.v":68:9:68:12|ROM data_wr_H_1[7:0] (in view: work.hdmi_i2c_ctrl(verilog)) mapped in logic.
+@N: BZ173 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_ctrl.v":68:9:68:12|ROM addr_reg_H_1[6:0] (in view: work.hdmi_i2c_ctrl(verilog)) mapped in logic.
+@N: BZ173 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_ctrl.v":68:9:68:12|ROM data_wr_H_1[7:0] (in view: work.hdmi_i2c_ctrl(verilog)) mapped in logic.
+@N: MO106 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_ctrl.v":68:9:68:12|Found ROM data_wr_H_1[7:0] (in view: work.hdmi_i2c_ctrl(verilog)) with 12 words by 8 bits.
+@N: BZ173 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_ctrl.v":68:9:68:12|ROM addr_reg_H_1[6:0] (in view: work.hdmi_i2c_ctrl(verilog)) mapped in logic.
+@N: MO106 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_ctrl.v":68:9:68:12|Found ROM addr_reg_H_1[6:0] (in view: work.hdmi_i2c_ctrl(verilog)) with 12 words by 7 bits.
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\blanking_adjustment.v":60:4:60:9|Found counter in view:work.blanking_adjustment_Z1(verilog) instance rstn_cnt[15:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":42:0:42:5|Found counter in view:work.camera_filter_wrapper(verilog) instance pix_cnt[11:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_top.v":141:0:141:5|Found counter in view:work.i2c_top(verilog) instance count[28:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_top.v":63:0:63:5|Found counter in view:work.i2c_top(verilog) instance crosslink_delay[16:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_top.v":42:0:42:5|Found counter in view:work.i2c_top(verilog) instance reset_delay[23:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_top.v":52:0:52:5|Found counter in view:work.i2c_top(verilog) instance i2c_delay[10:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":156:3:156:8|Found counter in view:work.i2c_core_1(verilog) instance cnt_1bit[7:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":97:3:97:8|Found counter in view:work.i2c_core_1(verilog) instance cnt_bit[3:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":170:3:170:8|Found counter in view:work.i2c_core_1(verilog) instance cnt_128u[13:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":156:3:156:8|Found counter in view:work.i2c_core_0(verilog) instance cnt_1bit[7:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":97:3:97:8|Found counter in view:work.i2c_core_0(verilog) instance cnt_bit[3:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":170:3:170:8|Found counter in view:work.i2c_core_0(verilog) instance cnt_128u[13:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_core.v":156:3:156:8|Found counter in view:work.hdmi_i2c_core(verilog) instance cnt_1bit[7:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_core.v":97:3:97:8|Found counter in view:work.hdmi_i2c_core(verilog) instance cnt_bit[3:0] 
+@N: MO231 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\hdmi_i2c_core.v":170:3:170:8|Found counter in view:work.hdmi_i2c_core(verilog) instance cnt_128u[13:0] 
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[6] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[5] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[4] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[3] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[2] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[1] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[0] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[8] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: BN362 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\ab.v":118:0:118:5|Removing sequential instance u_ab.q_data_gain_clip[7] (in view: work.image_pipe(verilog)) because it does not drive other instances.
+@N: FA113 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":95:72:95:87|Pipelining module un5_blue_dominant[31:0]. For more information, search for "pipelining" in Online Help.
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register frame_b[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register frame_g[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register sum_b[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register frame_r[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register sum_g[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register sum_r[31:0].
+@N: FA113 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":95:72:95:87|Pipelining module un5_blue_dominant[31:0]. For more information, search for "pipelining" in Online Help.
+@N: MF169 :|Pushed in register NoName.
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register sum_b[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register sum_g[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register frame_b[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register sum_r[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register frame_g[31:0].
+@N: MF169 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\camera_filter_wrapper.v":58:0:58:5|Pushed in register frame_r[31:0].
+@N: FX214 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v":67:9:67:12|Generating ROM data_wr_H_1[7:0] (in view: work.i2c_ctrl_0(verilog)).
+@N: FX214 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v":67:9:67:12|Generating ROM addr_reg_L_1[7:0] (in view: work.i2c_ctrl_0(verilog)).
+@N: FX214 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v":67:9:67:12|Generating ROM addr_reg_H_1[6:0] (in view: work.i2c_ctrl_0(verilog)).
+@N: FX214 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v":67:9:67:12|Generating ROM data_wr_H_1[7:0] (in view: work.i2c_ctrl_1(verilog)).
+@N: FX214 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v":67:9:67:12|Generating ROM addr_reg_L_1[7:0] (in view: work.i2c_ctrl_1(verilog)).
+@N: FX214 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v":67:9:67:12|Generating ROM addr_reg_H_1[6:0] (in view: work.i2c_ctrl_1(verilog)).
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[0] (in view: work.RAW10toParallel(verilog)) with 31 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[4] (in view: work.RAW10toParallel(verilog)) with 29 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[2] (in view: work.RAW10toParallel(verilog)) with 29 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[5] (in view: work.RAW10toParallel(verilog)) with 28 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[6] (in view: work.RAW10toParallel(verilog)) with 28 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[3] (in view: work.RAW10toParallel(verilog)) with 28 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[7] (in view: work.RAW10toParallel(verilog)) with 29 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[1] (in view: work.RAW10toParallel(verilog)) with 29 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[9] (in view: work.RAW10toParallel(verilog)) with 28 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[8] (in view: work.RAW10toParallel(verilog)) with 28 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\blanking_adjustment.v":70:4:70:9|Replicating instance image_pipe_inst.U_inst1.pixcnt[0] (in view: work.RAW10toParallel(verilog)) with 4 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":249:3:249:8|Replicating instance i2c_inst.i2c_core2.i2c_cs[7] (in view: work.RAW10toParallel(verilog)) with 10 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":115:3:115:8|Replicating instance i2c_inst.i2c_core2.scl_s1 (in view: work.RAW10toParallel(verilog)) with 9 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":115:3:115:8|Replicating instance i2c_inst.i2c_core2.scl_s2 (in view: work.RAW10toParallel(verilog)) with 8 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v":249:3:249:8|Replicating instance i2c_inst.i2c_core2.i2c_cs[3] (in view: work.RAW10toParallel(verilog)) with 8 loads 1 time to improve timing.
+@N: FX271 :"d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\debayer.v":103:0:103:5|Replicating instance image_pipe_inst.u_debayer.pixcnt[11] (in view: work.RAW10toParallel(verilog)) with 29 loads 2 times to improve timing.
+@N: FX164 |The option to pack registers in the IOB has not been specified. Please set syn_useioff attribute.  
+@N: FX1056 |Writing EDF file: D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\Raw10toParallel_impl1.edi
+@N: BW106 |Synplicity Constraint File capacitance units using default value of 1pF 
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

@@ -1,0 +1,28 @@
+PAR: Place And Route Diamond (64-bit) 3.14.0.75.2.
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995 AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems   All rights reserved.
+Copyright (c) 2002-2024 Lattice Semiconductor Corporation,  All rights reserved.
+Tue Mar 31 19:35:56 2026
+
+D://ispfpga\bin\nt64\par -f Raw10toParallel_impl1.p2t
+Raw10toParallel_impl1_map.ncd Raw10toParallel_impl1.dir
+Raw10toParallel_impl1.prf -gui -msgset
+D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/promote.xml
+
+
+Preference file: Raw10toParallel_impl1.prf.
+
+Level/       Number       Worst        Timing       Worst        Timing       Run          NCD
+Cost [ncd]   Unrouted     Slack        Score        Slack(hold)  Score(hold)  Time         Status
+----------   --------     -----        ------       -----------  -----------  ----         ------
+5_1   *      0            0.752        0            0.119        0            01:44        Completed
+
+* : Design saved.
+
+Total (real) run time for 1-seed: 1 mins 44 secs 
+
+par done!
+
+Note: user must run 'Trace' for timing closure signoff.

@@ -1,0 +1,260 @@
+#Build: Synplify Pro (R) V-2023.09L-2, Build 349R, Sep 17 2024
+#install: D:\synpbase
+#OS: Windows 10 or later
+#Hostname: MATEBOOK-ILENIA
+
+# Sun Mar  8 17:23:10 2026
+
+#Implementation: impl1
+
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09L-2
+Install: D:\synpbase
+OS: Windows 10 or later
+Hostname: MATEBOOK-ILENIA
+
+Implementation : impl1
+Synopsys HDL Compiler, Version comp202309synp1, Build 349R, Built Sep 17 2024 08:16:26, @
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09L-2
+Install: D:\synpbase
+OS: Windows 10 or later
+Hostname: MATEBOOK-ILENIA
+
+Implementation : impl1
+Synopsys Verilog Compiler, Version comp202309synp1, Build 349R, Built Sep 17 2024 08:16:26, @
+
+@N|Running in 64-bit mode
+@I::"D:\synpbase\lib\lucent\ecp5um.v" (library work)
+@I::"D:\synpbase\lib\lucent\pmi_def.v" (library work)
+@I::"D:\synpbase\lib\vlog\hypermods.v" (library __hyper__lib__)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\RAW10toParallel.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\ab.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\blanking_adjustment.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v" (library work)
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":228:7:228:12|Net select is not declared.
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\gamma_correction.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_core.v" (library work)
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_core.v":93:8:93:13|Net scl_in is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_core.v":94:8:94:13|Net sda_in is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_core.v":153:10:153:20|Net i2c_rqt_pos is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_core.v":167:10:167:19|Net timer_125u is not declared.
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_ctrl.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_top.v" (library work)
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_top.v":65:7:65:17|Net i2c_data_rd is not declared.
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_core.v" (library work)
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_core.v":93:8:93:13|Net scl_in is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_core.v":94:8:94:13|Net sda_in is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_core.v":153:10:153:20|Net i2c_rqt_pos is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_core.v":167:10:167:19|Net timer_125u is not declared.
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_ctrl.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_top.v" (library work)
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_top.v":36:10:36:12|Net clk is not declared.
+@W: CG1337 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_top.v":150:7:150:17|Net i2c_data_rd is not declared.
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\image_pipe.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\debayer_dpram\debayer_dpram.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\rb_ram\rb_ram.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\dp_ram.v" (library work)
+@N: CG334 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\dp_ram.v":1:13:1:25|Read directive translate_off.
+@N: CG333 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\dp_ram.v":3:13:3:24|Read directive translate_on.
+@W: CG274 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\dp_ram.v":5:0:5:21|Not overridding macro passed from the project (Macro: SBP_SYNTHESIS) - the macro value specified in the project will be used
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\gammaCorrector\gammaCorrector_top.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\gammaCorrector\gammaCorrector_bb.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\Gamma.v" (library work)
+@N: CG334 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\Gamma.v":1:13:1:25|Read directive translate_off.
+@N: CG333 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\Gamma.v":3:13:3:24|Read directive translate_on.
+@W: CG274 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\Gamma.v":5:0:5:21|Not overridding macro passed from the project (Macro: SBP_SYNTHESIS) - the macro value specified in the project will be used
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\sc_fifo\sc_fifo.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\image_fifo.v" (library work)
+@N: CG334 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\image_fifo.v":1:13:1:25|Read directive translate_off.
+@N: CG333 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\image_fifo.v":3:13:3:24|Read directive translate_on.
+@W: CG274 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\image_fifo.v":5:0:5:21|Not overridding macro passed from the project (Macro: SBP_SYNTHESIS) - the macro value specified in the project will be used
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\color.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_top.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_bb.v" (library work)
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\CSC.v" (library work)
+@N: CG334 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\CSC.v":1:13:1:25|Read directive translate_off.
+@N: CG333 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\CSC.v":3:13:3:24|Read directive translate_on.
+@W: CG274 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\CSC.v":5:0:5:21|Not overridding macro passed from the project (Macro: SBP_SYNTHESIS) - the macro value specified in the project will be used
+@I::"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v" (library work)
+Verilog syntax check successful!
+Selecting top level module RAW10toParallel
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\blanking_adjustment.v":34:7:34:25|Synthesizing module blanking_adjustment in library work.
+
+	rst_delay_msb=32'b00000000000000000000000000001111
+	rst_delay_cyc=32'b00000000000000000100010011000000
+	h_active=32'b00000000000000000000011110000000
+	h_total=32'b00000000000000000000100010011000
+	v_active=32'b00000000000000000000010000111000
+	v_total=32'b00000000000000000000010001100101
+	H_FRONT_PORCH=32'b00000000000000000000000001011000
+	H_SYNCH=32'b00000000000000000000000000101100
+	H_BACK_PORCH=32'b00000000000000000000000010010100
+	V_FRONT_PORCH=32'b00000000000000000000000000000100
+	V_SYNCH=32'b00000000000000000000000000000101
+   Generated name = blanking_adjustment_Z1
+Running optimization stage 1 on blanking_adjustment_Z1 .......
+@W: CL169 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\blanking_adjustment.v":70:4:70:9|Pruning unused register fv_cnt[11:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\blanking_adjustment.v":70:4:70:9|Pruning unused register q_fv. Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on blanking_adjustment_Z1 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":25:7:25:10|Synthesizing module AND2 in library work.
+Running optimization stage 1 on AND2 .......
+Finished optimization stage 1 on AND2 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":367:7:367:9|Synthesizing module INV in library work.
+Running optimization stage 1 on INV .......
+Finished optimization stage 1 on INV (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":810:7:810:10|Synthesizing module XOR2 in library work.
+Running optimization stage 1 on XOR2 .......
+Finished optimization stage 1 on XOR2 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":710:7:710:14|Synthesizing module ROM16X1A in library work.
+Running optimization stage 1 on ROM16X1A .......
+Finished optimization stage 1 on ROM16X1A (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":866:7:866:12|Synthesizing module DP16KD in library work.
+Running optimization stage 1 on DP16KD .......
+Finished optimization stage 1 on DP16KD (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":119:7:119:13|Synthesizing module FD1P3DX in library work.
+Running optimization stage 1 on FD1P3DX .......
+Finished optimization stage 1 on FD1P3DX (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":160:7:160:13|Synthesizing module FD1S3BX in library work.
+Running optimization stage 1 on FD1S3BX .......
+Finished optimization stage 1 on FD1S3BX (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":168:7:168:13|Synthesizing module FD1S3DX in library work.
+Running optimization stage 1 on FD1S3DX .......
+Finished optimization stage 1 on FD1S3DX (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":76:7:76:11|Synthesizing module CCU2C in library work.
+Running optimization stage 1 on CCU2C .......
+Finished optimization stage 1 on CCU2C (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":757:7:757:9|Synthesizing module VHI in library work.
+Running optimization stage 1 on VHI .......
+Finished optimization stage 1 on VHI (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":761:7:761:9|Synthesizing module VLO in library work.
+Running optimization stage 1 on VLO .......
+Finished optimization stage 1 on VLO (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\synpbase\lib\lucent\ecp5um.v":458:7:458:11|Synthesizing module MUX21 in library work.
+Running optimization stage 1 on MUX21 .......
+Finished optimization stage 1 on MUX21 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\sc_fifo\sc_fifo.v":8:7:8:13|Synthesizing module sc_fifo in library work.
+Running optimization stage 1 on sc_fifo .......
+Finished optimization stage 1 on sc_fifo (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\image_fifo.v":11:7:11:16|Synthesizing module image_fifo in library work.
+Running optimization stage 1 on image_fifo .......
+Finished optimization stage 1 on image_fifo (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\ab.v":34:7:34:8|Synthesizing module ab in library work.
+
+	horizontal=32'b00000000000000000000011110000000
+	vertical=32'b00000000000000000000010000111000
+	UPPER=32'b00000000000000000000010010110000
+	LOWER=32'b00000000000000000000010001001100
+	max_Gain=13'b0010100000000
+	min_Gain=13'b0000001000000
+	ADJUST=32'b00000000000000000000000000000100
+   Generated name = ab_1920_1080_1200_1100_1280_64_4
+Running optimization stage 1 on ab_1920_1080_1200_1100_1280_64_4 .......
+@W: CL271 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\ab.v":133:0:133:5|Pruning unused bits 24 to 12 of q_data_gain_shift[24:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+Finished optimization stage 1 on ab_1920_1080_1200_1100_1280_64_4 (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\debayer_dpram\debayer_dpram.v":8:7:8:19|Synthesizing module debayer_dpram in library work.
+Running optimization stage 1 on debayer_dpram .......
+@W: CL168 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\debayer_dpram\debayer_dpram.v":24:8:24:21|Removing instance scuba_vhi_inst because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+Finished optimization stage 1 on debayer_dpram (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":34:7:34:13|Synthesizing module debayer in library work.
+
+	h_active=32'b00000000000000000000011110000000
+	h_total=32'b00000000000000000000100010011000
+	v_active=32'b00000000000000000000010000111000
+	v_total=32'b00000000000000000000010001100101
+	H_FRONT_PORCH=32'b00000000000000000000000001011000
+	H_SYNCH=32'b00000000000000000000000000101100
+	H_BACK_PORCH=32'b00000000000000000000000010010100
+	V_FRONT_PORCH=32'b00000000000000000000000000000100
+	V_SYNCH=32'b00000000000000000000000000000101
+   Generated name = debayer_1920_2200_1080_1125_88_44_148_4_5
+Running optimization stage 1 on debayer_1920_2200_1080_1125_88_44_148_4_5 .......
+@W: CL169 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":230:0:230:5|Pruning unused register select4[1:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":70:0:70:5|Pruning unused register fv_r. Make sure that there are no unused intermediate registers.
+@W: CL271 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":246:0:246:5|Pruning unused bits 1 to 0 of r_data_out_r[13:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":246:0:246:5|Pruning unused bits 1 to 0 of g_data_out_r[13:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":246:0:246:5|Pruning unused bits 1 to 0 of b_data_out_r[13:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL190 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Optimizing register bit NW[12] to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Optimizing register bit NW[13] to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Optimizing register bit SW[12] to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Optimizing register bit SW[13] to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Optimizing register bit W[12] to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Optimizing register bit W[13] to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL279 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Pruning register bits 13 to 12 of NW[13:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL279 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Pruning register bits 13 to 12 of SW[13:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL279 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v":168:0:168:5|Pruning register bits 13 to 12 of W[13:0]. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+Finished optimization stage 1 on debayer_1920_2200_1080_1125_88_44_148_4_5 (CPU Time 0h:00m:00s, Memory Used current: 100MB peak: 100MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_bb.v":1:7:1:16|Synthesizing module colorspace in library work.
+@W: CG146 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_bb.v":1:7:1:16|Creating black box for empty module colorspace
+
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_top.v":3:7:3:20|Synthesizing module colorspace_top in library work.
+Running optimization stage 1 on colorspace_top .......
+Finished optimization stage 1 on colorspace_top (CPU Time 0h:00m:00s, Memory Used current: 105MB peak: 105MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\CSC.v":11:7:11:9|Synthesizing module CSC in library work.
+Running optimization stage 1 on CSC .......
+Finished optimization stage 1 on CSC (CPU Time 0h:00m:00s, Memory Used current: 105MB peak: 105MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\color.v":34:7:34:11|Synthesizing module color in library work.
+Running optimization stage 1 on color .......
+Finished optimization stage 1 on color (CPU Time 0h:00m:00s, Memory Used current: 105MB peak: 105MB)
+@E: CG389 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":238:9:238:18|Reference to undefined module filter_a
+@E: CG389 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":252:9:252:18|Reference to undefined module filter_b
+@E: CG389 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":266:9:266:18|Reference to undefined module filter_c
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":1:7:1:27|Synthesizing module camera_filter_wrapper in library work.
+@W: CG141 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":238:9:238:18|Creating black box for filter_a
+	Making port r_in an input
+	Making port g_in an input
+	Making port b_in an input
+Making port r_out a bidir
+Making port g_out a bidir
+Making port b_out a bidir
+@W: CG141 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":252:9:252:18|Creating black box for filter_b
+	Making port r_in an input
+	Making port g_in an input
+	Making port b_in an input
+Making port r_out a bidir
+Making port g_out a bidir
+Making port b_out a bidir
+@W: CG141 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v":266:9:266:18|Creating black box for filter_c
+	Making port r_in an input
+	Making port g_in an input
+	Making port b_in an input
+Making port r_out a bidir
+Making port g_out a bidir
+Making port b_out a bidir
+Running optimization stage 1 on camera_filter_wrapper .......
+Finished optimization stage 1 on camera_filter_wrapper (CPU Time 0h:00m:00s, Memory Used current: 106MB peak: 106MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\gammaCorrector\gammaCorrector_bb.v":1:7:1:20|Synthesizing module gammaCorrector in library work.
+@W: CG146 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\gammaCorrector\gammaCorrector_bb.v":1:7:1:20|Creating black box for empty module gammaCorrector
+
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\Gamma.v":11:7:11:11|Synthesizing module Gamma in library work.
+Running optimization stage 1 on Gamma .......
+Finished optimization stage 1 on Gamma (CPU Time 0h:00m:00s, Memory Used current: 106MB peak: 106MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\gamma_correction.v":34:7:34:22|Synthesizing module gamma_correction in library work.
+Running optimization stage 1 on gamma_correction .......
+Finished optimization stage 1 on gamma_correction (CPU Time 0h:00m:00s, Memory Used current: 106MB peak: 106MB)
+@N: CG364 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\image_pipe.v":34:7:34:16|Synthesizing module image_pipe in library work.
+@E: CS168 :"D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\image_pipe.v":148:11:148:11|Port gain_out does not exist
+Process took 0h:00m:02s realtime, 0h:00m:02s cputime
+# Sun Mar  8 17:23:13 2026
+
+###########################################################]
+@END
+Process took 0h:00m:02s realtime, 0h:00m:02s cputime
+# Sun Mar  8 17:23:13 2026
+
+###########################################################]

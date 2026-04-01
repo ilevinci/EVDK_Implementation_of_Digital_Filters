@@ -1,0 +1,45 @@
+@P:  Worst Slack : -1.127
+@P:  RAW10toParallel|CSI2_sens_clk - Estimated Frequency : 189.0 MHz
+@P:  RAW10toParallel|CSI2_sens_clk - Requested Frequency : 222.4 MHz
+@P:  RAW10toParallel|CSI2_sens_clk - Estimated Period : 5.290
+@P:  RAW10toParallel|CSI2_sens_clk - Requested Period : 4.497
+@P:  RAW10toParallel|CSI2_sens_clk - Slack : -0.793
+@P:  RAW10toParallel|clk_i - Estimated Frequency : 133.1 MHz
+@P:  RAW10toParallel|clk_i - Requested Frequency : 156.6 MHz
+@P:  RAW10toParallel|clk_i - Estimated Period : 7.513
+@P:  RAW10toParallel|clk_i - Requested Period : 6.386
+@P:  RAW10toParallel|clk_i - Slack : -1.127
+@P:  System - Estimated Frequency : 2816.9 MHz
+@P:  System - Requested Frequency : 3314.6 MHz
+@P:  System - Estimated Period : 0.355
+@P:  System - Requested Period : 0.302
+@P:  System - Slack : -0.053
+@P:  Total Area : 1388.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  CPU Time : 0h:00m:37s

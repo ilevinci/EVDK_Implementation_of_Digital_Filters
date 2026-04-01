@@ -1,0 +1,7 @@
+D:\synpbase\bin64\syn_nfilter.exe  -link  -top  RAW10toParallel  -multisrs  D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_comp.srs  -osyn  D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_mult.srs  -log  D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synlog\Raw10toParallel_impl1_multi_srs_gen.srr 
+relcom:..\..\..\..\..\synpbase\bin64\syn_nfilter.exe -link -top RAW10toParallel -multisrs ..\synwork\Raw10toParallel_impl1_comp.srs -osyn ..\synwork\Raw10toParallel_impl1_mult.srs -log ..\synlog\Raw10toParallel_impl1_multi_srs_gen.srr
+rc:0 success:1 runtime:1
+file:..\synwork\raw10toparallel_impl1_comp.srs|io:i|time:1774978476|size:93869|exec:0|csum:26499A01B9C5A4B74F1EA4FE7B5CDA72
+file:..\synwork\raw10toparallel_impl1_mult.srs|io:o|time:1774978478|size:4145|exec:0|csum:
+file:..\synlog\raw10toparallel_impl1_multi_srs_gen.srr|io:o|time:1774978478|size:1170|exec:0|csum:
+file:..\..\..\..\..\synpbase\bin64\syn_nfilter.exe|io:i|time:1727134362|size:10549248|exec:1|csum:D91EA53737F6BC51A484A15DD0EB29F5

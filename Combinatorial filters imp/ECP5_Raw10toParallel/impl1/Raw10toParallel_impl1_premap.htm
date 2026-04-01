@@ -1,0 +1,235 @@
+<html><body><samp><pre>
+<!@TC:1774525162>
+# Thu Mar 26 12:39:17 2026
+
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09L-2
+Install: D:\synpbase
+OS: Windows 10 or later
+Hostname: MATEBOOK-ILENIA
+
+Implementation : impl1
+<a name=mapperReport15></a>Synopsys Lattice Technology Pre-mapping, Version map202309lat, Build 191R, Built Sep 17 2024 10:38:50, @</a>
+
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 184MB peak: 184MB)
+
+
+Done reading skeleton netlist (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 188MB peak: 199MB)
+
+@A:<a href="@A:MF827:@XP_HELP">MF827</a> : <!@TM:1774525162> | No constraint file specified. 
+Linked File:  <a href="D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\Raw10toParallel_impl1_scck.rpt:@XP_FILE">Raw10toParallel_impl1_scck.rpt</a>
+See clock summary report "D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\Raw10toParallel_impl1_scck.rpt"
+@N:<a href="@N:MF916:@XP_HELP">MF916</a> : <!@TM:1774525162> | Option synthesis_strategy=base is enabled.  
+@N:<a href="@N:MF248:@XP_HELP">MF248</a> : <!@TM:1774525162> | Running in 64-bit mode. 
+@N:<a href="@N:MF666:@XP_HELP">MF666</a> : <!@TM:1774525162> | Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.) 
+
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 197MB peak: 199MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 197MB peak: 199MB)
+
+
+Start loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 210MB peak: 210MB)
+
+
+Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 210MB peak: 212MB)
+
+NConnInternalConnection caching is on
+
+Starting HSTDM IP insertion (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 262MB peak: 262MB)
+
+
+Finished HSTDM IP insertion (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 262MB peak: 262MB)
+
+
+Started DisTri Cleanup (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 262MB peak: 262MB)
+
+
+Finished DisTri Cleanup (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 262MB peak: 262MB)
+
+@N:<a href="@N:BN362:@XP_HELP">BN362</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v:222:3:222:9:@N:BN362:@XP_MSG">i2c_core.v(222)</a><!@TM:1774525162> | Removing sequential instance data_rd[7:0] (in view: work.i2c_core_1(verilog)) of type view:PrimLib.dffre(prim) because it does not drive other instances.
+@N:<a href="@N:BN362:@XP_HELP">BN362</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v:213:3:213:9:@N:BN362:@XP_MSG">i2c_core.v(213)</a><!@TM:1774525162> | Removing sequential instance data_rdy (in view: work.i2c_core_1(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@N:<a href="@N:BN362:@XP_HELP">BN362</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v:222:3:222:9:@N:BN362:@XP_MSG">i2c_core.v(222)</a><!@TM:1774525162> | Removing sequential instance data_rd[7:0] (in view: work.i2c_core_0(verilog)) of type view:PrimLib.dffre(prim) because it does not drive other instances.
+@N:<a href="@N:BN362:@XP_HELP">BN362</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_core.v:213:3:213:9:@N:BN362:@XP_MSG">i2c_core.v(213)</a><!@TM:1774525162> | Removing sequential instance data_rdy (in view: work.i2c_core_0(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+Encoding state machine i2c_cs[21:0] (in view: work.i2c_core_1(verilog))
+original code -> new code
+   000001 -> 0000000000000000000001
+   000010 -> 0000000000000000000010
+   000011 -> 0000000000000000000100
+   000100 -> 0000000000000000001000
+   000101 -> 0000000000000000010000
+   000110 -> 0000000000000000100000
+   000111 -> 0000000000000001000000
+   001000 -> 0000000000000010000000
+   001001 -> 0000000000000100000000
+   001010 -> 0000000000001000000000
+   001101 -> 0000000000010000000000
+   001110 -> 0000000000100000000000
+   001111 -> 0000000001000000000000
+   010000 -> 0000000010000000000000
+   010001 -> 0000000100000000000000
+   010010 -> 0000001000000000000000
+   010101 -> 0000010000000000000000
+   010110 -> 0000100000000000000000
+   010111 -> 0001000000000000000000
+   011000 -> 0010000000000000000000
+   011001 -> 0100000000000000000000
+   011010 -> 1000000000000000000000
+Encoding state machine i2c_cs[21:0] (in view: work.i2c_core_0(verilog))
+original code -> new code
+   000001 -> 0000000000000000000001
+   000010 -> 0000000000000000000010
+   000011 -> 0000000000000000000100
+   000100 -> 0000000000000000001000
+   000101 -> 0000000000000000010000
+   000110 -> 0000000000000000100000
+   000111 -> 0000000000000001000000
+   001000 -> 0000000000000010000000
+   001001 -> 0000000000000100000000
+   001010 -> 0000000000001000000000
+   001101 -> 0000000000010000000000
+   001110 -> 0000000000100000000000
+   001111 -> 0000000001000000000000
+   010000 -> 0000000010000000000000
+   010001 -> 0000000100000000000000
+   010010 -> 0000001000000000000000
+   010101 -> 0000010000000000000000
+   010110 -> 0000100000000000000000
+   010111 -> 0001000000000000000000
+   011000 -> 0010000000000000000000
+   011001 -> 0100000000000000000000
+   011010 -> 1000000000000000000000
+Encoding state machine i2c_cs[11:0] (in view: work.hdmi_i2c_core(verilog))
+original code -> new code
+   000001 -> 000000000001
+   000010 -> 000000000010
+   000011 -> 000000000100
+   000100 -> 000000001000
+   000101 -> 000000010000
+   000110 -> 000000100000
+   001001 -> 000001000000
+   001010 -> 000010000000
+   010111 -> 000100000000
+   011000 -> 001000000000
+   011001 -> 010000000000
+   011010 -> 100000000000
+
+Starting clock optimization phase (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 273MB peak: 273MB)
+
+
+mixed edge conversion for GCC is OFF
+@N:<a href="@N:MF578:@XP_HELP">MF578</a> : <!@TM:1774525162> | Incompatible asynchronous control logic preventing generated clock conversion. 
+<font color=#A52A2A>@W:<a href="@W:BZ240:@XP_HELP">BZ240</a> : <!@TM:1774525162> | GCC encountered Inferred Clock constraint on net GCC considers to be data hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.un1_step_cnt_6; this will likely lead to failure to convert</font> 
+<font color=#A52A2A>@W:<a href="@W:BZ240:@XP_HELP">BZ240</a> : <!@TM:1774525162> | GCC encountered Inferred Clock constraint on net GCC considers to be data i2c_inst.i2c_ctrl_inst2.un1_step_cnt_4; this will likely lead to failure to convert</font> 
+<font color=#A52A2A>@W:<a href="@W:BZ240:@XP_HELP">BZ240</a> : <!@TM:1774525162> | GCC encountered Inferred Clock constraint on net GCC considers to be data i2c_inst.i2c_ctrl_inst.un1_step_cnt_4; this will likely lead to failure to convert</font> 
+
+Finished clock optimization phase (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 274MB peak: 274MB)
+
+<font color=#A52A2A>@W:<a href="@W:BZ101:@XP_HELP">BZ101</a> : <!@TM:1774525162> | Potential glitch can occur at the output of 14 instances  </font> 
+@N:<a href="@N:MT611:@XP_HELP">MT611</a> : <!@TM:1774525162> | Automatically generated clock hdmi_i2c_ctrl|un1_step_cnt_6_inferred_clock is not used and is being removed 
+@N:<a href="@N:MT611:@XP_HELP">MT611</a> : <!@TM:1774525162> | Automatically generated clock i2c_ctrl_0|un1_step_cnt_4_inferred_clock is not used and is being removed 
+@N:<a href="@N:MT611:@XP_HELP">MT611</a> : <!@TM:1774525162> | Automatically generated clock i2c_ctrl_1|un1_step_cnt_4_inferred_clock is not used and is being removed 
+
+Starting clock optimization report phase (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 274MB peak: 274MB)
+
+
+Finished clock optimization report phase (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 274MB peak: 274MB)
+
+@N:<a href="@N:FX1184:@XP_HELP">FX1184</a> : <!@TM:1774525162> | Applying syn_allowed_resources blockrams=208 on top level netlist RAW10toParallel  
+
+Finished netlist restructuring (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 274MB peak: 274MB)
+
+
+
+<a name=mapperReport16></a>Clock Summary</a>
+******************
+
+          Start                             Requested     Requested     Clock        Clock          Clock
+Level     Clock                             Frequency     Period        Type         Group          Load 
+---------------------------------------------------------------------------------------------------------
+0 -       RAW10toParallel|CSI2_sens_clk     309.8 MHz     3.228         inferred     (multiple)     1345 
+                                                                                                         
+0 -       RAW10toParallel|clk_i             408.0 MHz     2.451         inferred     (multiple)     308  
+=========================================================================================================
+
+
+
+Clock Load Summary
+***********************
+
+                                  Clock     Source                  Clock Pin                                         Non-clock Pin     Non-clock Pin       
+Clock                             Load      Pin                     Seq Example                                       Seq Example       Comb Example        
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+RAW10toParallel|CSI2_sens_clk     1345      CSI2_sens_clk(port)     fv_i.C                                            -                 pixclk_out.I[0](inv)
+                                                                                                                                                            
+RAW10toParallel|clk_i             308       clk_i(port)             hdmi_i2c_top_inst.hdmi_i2c_core_inst.scl_s2.C     -                 -                   
+============================================================================================================================================================
+
+<font color=#A52A2A>@W:<a href="@W:MT531:@XP_HELP">MT531</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v:67:9:67:13:@W:MT531:@XP_MSG">i2c_ctrl.v(67)</a><!@TM:1774525162> | Found signal identified as System clock which controls 61 sequential elements including i2c_inst.i2c_ctrl_inst.addr_reg_H[6].  Using this clock, which has no specified timing constraint, can prevent conversion of gated or generated clocks and can adversely impact design performance. </font>
+<font color=#A52A2A>@W:<a href="@W:MT529:@XP_HELP">MT529</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\blanking_adjustment.v:70:4:70:10:@W:MT529:@XP_MSG">blanking_adjustment.v(70)</a><!@TM:1774525162> | Found inferred clock RAW10toParallel|CSI2_sens_clk which controls 1345 sequential elements including image_pipe_inst.U_inst1.linecnt[10:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. </font>
+<font color=#A52A2A>@W:<a href="@W:MT529:@XP_HELP">MT529</a> : <a href="d:\desktop\dual_csi-2_camera_to_hdmi_bridge_demo\ecp5_raw10toparallel\source\i2c_ctrl.v:45:3:45:9:@W:MT529:@XP_MSG">i2c_ctrl.v(45)</a><!@TM:1774525162> | Found inferred clock RAW10toParallel|clk_i which controls 308 sequential elements including i2c_inst.i2c_ctrl_inst.step_cnt[11:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. </font>
+
+ICG Latch Removal Summary:
+Number of ICG latches removed: 0
+Number of ICG latches not removed:	0
+
+
+@S |Clock Optimization Summary
+
+
+
+<a name=clockReport17></a>#### START OF PREMAP CLOCK OPTIMIZATION REPORT #####[</a>
+
+2 non-gated/non-generated clock tree(s) driving 1653 clock pin(s) of sequential element(s)
+3 gated/generated clock tree(s) driving 88 clock pin(s) of sequential element(s)
+0 instances converted, 88 sequential instances remain driven by gated/generated clocks
+
+============================== Non-Gated/Non-Generated Clocks ==============================
+Clock Tree ID     Driving Element     Drive Element Type     Fanout     Sample Instance     
+--------------------------------------------------------------------------------------------
+<a href="@|L:D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_prem.srm@|S:clk_i@|E:i2c_inst.count[28:0]@|F:@syn_dgcc_clockid0_0==1@|M:ClockId_0_0 @XP_NAMES_BY_PROP">ClockId_0_0</a>       clk_i               port                   308        i2c_inst.count[28:0]
+<a href="@|L:D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_prem.srm@|S:CSI2_sens_clk@|E:pix_red[11:0]@|F:@syn_dgcc_clockid0_4==1@|M:ClockId_0_4 @XP_NAMES_BY_PROP">ClockId_0_4</a>       CSI2_sens_clk       port                   1345       pix_red[11:0]       
+============================================================================================
+==================================================================================================== Gated/Generated Clocks ====================================================================================================
+Clock Tree ID     Driving Element                                                  Drive Element Type     Unconverted Fanout     Sample Instance                                      Explanation                               
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<a href="@|L:D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_prem.srm@|S:hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.un1_step_cnt_6_uclk.OUT@|E:hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[6]@|F:@syn_dgcc_clockid0_1==1@|M:ClockId_0_1 @XP_NAMES_BY_PROP">ClockId_0_1</a>       hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.un1_step_cnt_6_uclk.OUT     or                     24                     hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[6]     Derived clock on input (not legal for GCC)
+<a href="@|L:D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_prem.srm@|S:i2c_inst.i2c_ctrl_inst2.un1_step_cnt_4_uclk.OUT@|E:i2c_inst.i2c_ctrl_inst2.addr_dev[6]@|F:@syn_dgcc_clockid0_2==1@|M:ClockId_0_2 @XP_NAMES_BY_PROP">ClockId_0_2</a>       i2c_inst.i2c_ctrl_inst2.un1_step_cnt_4_uclk.OUT                  or                     32                     i2c_inst.i2c_ctrl_inst2.addr_dev[6]                  Derived clock on input (not legal for GCC)
+<a href="@|L:D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\impl1\synwork\Raw10toParallel_impl1_prem.srm@|S:i2c_inst.i2c_ctrl_inst.un1_step_cnt_4_uclk.OUT@|E:i2c_inst.i2c_ctrl_inst.addr_dev[6]@|F:@syn_dgcc_clockid0_3==1@|M:ClockId_0_3 @XP_NAMES_BY_PROP">ClockId_0_3</a>       i2c_inst.i2c_ctrl_inst.un1_step_cnt_4_uclk.OUT                   or                     32                     i2c_inst.i2c_ctrl_inst.addr_dev[6]                   Derived clock on input (not legal for GCC)
+================================================================================================================================================================================================================================
+
+
+##### END OF CLOCK OPTIMIZATION REPORT ######
+
+
+Summary of user generated gated clocks:
+0 user generated gated/generated clock tree(s) driving 0 clock pin(s) of sequential element(s)
+
+@N:<a href="@N:FX1143:@XP_HELP">FX1143</a> : <!@TM:1774525162> | Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized. 
+Finished Pre Mapping Phase.
+
+Starting constraint checker (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 273MB peak: 274MB)
+
+
+Finished constraint checker preprocessing (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 274MB peak: 274MB)
+
+
+Finished constraint checker (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 275MB peak: 275MB)
+
+Pre-mapping successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 180MB peak: 276MB)
+
+Process took 0h:00m:04s realtime, 0h:00m:03s cputime
+# Thu Mar 26 12:39:22 2026
+
+###########################################################]
+
+</pre></samp></body></html>

@@ -1,0 +1,169 @@
+<HTML>
+<HEAD><TITLE>I/O Timing Report</TITLE>
+<STYLE TYPE="text/css">
+<!--
+ body,pre{    font-family:'Courier New', monospace;    color: #000000;    font-size:88%;    background-color: #ffffff;}h1 {    font-weight: bold;    margin-top: 24px;    margin-bottom: 10px;    border-bottom: 3px solid #000;    font-size: 1em;}h2 {    font-weight: bold;    margin-top: 18px;    margin-bottom: 5px;    font-size: 0.90em;}h3 {    font-weight: bold;    margin-top: 12px;    margin-bottom: 5px;    font-size: 0.80em;}p {    font-size:78%;}P.Table {    margin-top: 4px;    margin-bottom: 4px;    margin-right: 4px;    margin-left: 4px;}table{    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    border-collapse: collapse;}th {    font-weight:bold;    padding: 4px;    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    vertical-align:top;    text-align:left;    font-size:78%;}td {    padding: 4px;    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    vertical-align:top;    font-size:78%;}a {    color:#013C9A;    text-decoration:none;}a:visited {    color:#013C9A;}a:hover, a:active {    text-decoration:underline;    color:#5BAFD4;}.pass{background-color: #00ff00;}.fail{background-color: #ff0000;}.comment{    font-size: 90%;    font-style: italic;}
+-->
+</STYLE>
+</HEAD>
+<PRE><A name="Top"></A><B><U><big>I/O Timing Report</big></U></B>
+90 potential circuit loops found in timing analysis.
+Loading design for application iotiming from file raw10toparallel_impl1.ncd.
+Design name: RAW10toParallel
+NCD version: 3.3
+Vendor:      LATTICE
+Device:      LFE5UM-85F
+Package:     CABGA756
+Performance: 9
+Package Status:                     Final          Version 1.43.
+Performance Hardware Data Status:   Final          Version 55.1.
+Loading design for application iotiming from file raw10toparallel_impl1.ncd.
+Design name: RAW10toParallel
+NCD version: 3.3
+Vendor:      LATTICE
+Device:      LFE5UM-85F
+Package:     CABGA756
+Performance: M
+Package Status:                     Final          Version 1.43.
+Performance Hardware Data Status:   Final          Version 55.1.
+// Design: RAW10toParallel
+// Package: CABGA756
+// ncd File: raw10toparallel_impl1.ncd
+// Version: Diamond (64-bit) 3.14.0.75.2
+// Written on Tue Mar 31 19:38:13 2026
+// M: Minimum Performance Grade
+// iotiming Raw10toParallel_impl1.ncd Raw10toParallel_impl1.prf -gui -msgset D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/promote.xml
+
+I/O Timing Report (All units are in ns)
+
+Worst Case Results across Performance Grades (M, 9, 8):
+
+// Input Setup and Hold Times
+
+Port              Clock         Edge  Setup Performance_Grade  Hold Performance_Grade
+----------------------------------------------------------------------
+CSI2_sens_data[0] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[1] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[2] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[3] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[4] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[5] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[6] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[7] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[8] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_data[9] CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_fv      CSI2_sens_clk R    -0.379      M       2.611     8
+CSI2_sens_lv      CSI2_sens_clk R    -0.379      M       2.611     8
+reset_n           CSI2_sens_clk R     4.922      8      -0.217     8
+
+
+// Clock to Output Delay
+
+Port            Clock         Edge  Max_Delay Performance_Grade  Min_Delay Performance_Grade
+------------------------------------------------------------------------
+HDMI_scl        clk_i         R    10.631         8        5.231          M
+HDMI_sda        clk_i         R     9.926         8        4.897          M
+data_enable     CSI2_sens_clk R     6.538         8        2.875          M
+hsync           CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[0]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[10]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[11]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[1]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[2]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[3]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[4]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[5]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[6]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[7]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[8]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_blue[9]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[0]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[10]   CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[11]   CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[1]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[2]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[3]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[4]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[5]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[6]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[7]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[8]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_green[9]    CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[0]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[10]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[11]     CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[1]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[2]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[3]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[4]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[5]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[6]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[7]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[8]      CSI2_sens_clk R     6.538         8        2.875          M
+pix_red[9]      CSI2_sens_clk R     6.538         8        2.875          M
+q               clk_i         R     6.465         8        3.285          M
+reset_crosslink clk_i         R     7.374         8        3.703          M
+reset_sensor    clk_i         R    11.043         8        5.521          M
+scl             clk_i         R     8.797         8        4.411          M
+scl2            clk_i         R     8.506         8        4.265          M
+sda             clk_i         R     8.947         8        4.492          M
+sda2            clk_i         R     8.684         8        4.346          M
+vsync           CSI2_sens_clk R     6.538         8        2.875          M
+WARNING: you must also run trce with hold speed: 8
+WARNING: you must also run trce with setup speed: M
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</PRE></FONT>
+</BODY>
+</HTML>

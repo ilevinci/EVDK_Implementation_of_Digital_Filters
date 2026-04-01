@@ -1,0 +1,5 @@
+#Start recording tcl command: 3/31/2026 19:33:57
+#Project Location: D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel; Project name: Raw10toParallel
+prj_project open "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/Raw10toParallel.ldf"
+prj_run PAR -impl impl1
+#Stop recording: 3/31/2026 21:47:37

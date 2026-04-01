@@ -1,0 +1,102 @@
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09L-2
+Install: D:\synpbase
+OS: Windows 10 or later
+Hostname: MATEBOOK-ILENIA
+
+Implementation : impl1
+Synopsys HDL compiler and linker, Version comp202309synp1, Build 349R, Built Sep 17 2024 08:16:26, @
+
+Modified Files: 7
+FID:  path (prevtimestamp, timestamp)
+1        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\ab.v (2026-03-07 19:04:58, 2026-03-31 15:08:55)
+3        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v (2026-03-27 15:36:53, 2026-03-31 19:33:22)
+30       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\filter_a.v (2026-03-26 16:51:42, 2026-03-31 19:28:03)
+31       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\filter_b.v (2026-03-26 16:51:42, 2026-03-31 19:32:47)
+32       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\filter_c.v (2026-03-26 16:51:42, 2026-03-31 19:28:31)
+17       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\gamma_correction.v (2026-02-18 12:34:03, 2026-03-31 15:08:55)
+22       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_ctrl.v (2026-02-18 12:34:03, 2026-03-28 11:37:27)
+
+*******************************************************************
+Modules that may have changed as a result of file changes: 9
+MID:  lib.cell.view
+1        work.Gamma.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\gamma_correction.v (2026-02-18 12:34:03, 2026-03-31 15:08:55) <-- (may instantiate this module)
+3        work.ab.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\ab.v (2026-03-07 19:04:58, 2026-03-31 15:08:55) <-- (module definition)
+5        work.camera_filter_wrapper.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v (2026-03-27 15:36:53, 2026-03-31 19:33:22) <-- (module definition)
+25       work.filter_a.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v (2026-03-27 15:36:53, 2026-03-31 19:33:22) <-- (may instantiate this module)
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\filter_a.v (2026-03-26 16:51:42, 2026-03-31 19:28:03) <-- (module definition)
+26       work.filter_b.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v (2026-03-27 15:36:53, 2026-03-31 19:33:22) <-- (may instantiate this module)
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\filter_b.v (2026-03-26 16:51:42, 2026-03-31 19:32:47) <-- (module definition)
+27       work.filter_c.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\camera_filter_wrapper.v (2026-03-27 15:36:53, 2026-03-31 19:33:22) <-- (may instantiate this module)
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\filter_c.v (2026-03-26 16:51:42, 2026-03-31 19:28:31) <-- (module definition)
+12       work.gammaCorrector.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\gamma_correction.v (2026-02-18 12:34:03, 2026-03-31 15:08:55) <-- (may instantiate this module)
+14       work.gamma_correction.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\gamma_correction.v (2026-02-18 12:34:03, 2026-03-31 15:08:55) <-- (module definition)
+19       work.i2c_ctrl.verilog may have changed because the following files changed:
+                        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_ctrl.v (2026-02-18 12:34:03, 2026-03-28 11:37:27) <-- (module definition)
+
+*******************************************************************
+Unmodified files: 26
+FID:  path (timestamp)
+0        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\RAW10toParallel.v (2026-03-03 16:28:25)
+2        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\blanking_adjustment.v (2026-02-18 12:34:03)
+4        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\CSC.v (2026-02-18 12:34:03)
+5        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_bb.v (2026-02-18 12:34:04)
+6        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\CSC\colorspace\colorspace_top.v (2026-02-18 12:34:04)
+7        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\Gamma.v (2026-02-18 12:34:04)
+8        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\gammaCorrector\gammaCorrector_bb.v (2026-02-18 12:34:04)
+9        D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\Gamma\gammaCorrector\gammaCorrector_top.v (2026-02-18 12:34:04)
+10       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\debayer_dpram\debayer_dpram.v (2026-02-18 12:34:04)
+11       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\dp_ram.v (2026-02-18 12:34:04)
+12       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\dp_ram\rb_ram\rb_ram.v (2026-02-18 12:34:04)
+13       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\image_fifo.v (2026-02-18 12:34:05)
+14       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\clarity\image_fifo\sc_fifo\sc_fifo.v (2026-02-18 12:34:05)
+15       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\color.v (2026-02-18 12:34:03)
+16       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\debayer.v (2026-02-18 12:34:03)
+18       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_core.v (2026-02-18 12:34:03)
+19       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_ctrl.v (2026-02-18 12:34:03)
+20       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\hdmi_i2c_top.v (2026-02-18 12:34:03)
+21       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_core.v (2026-02-18 12:34:03)
+23       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\i2c_top.v (2026-02-18 12:34:03)
+24       D:\Desktop\Dual_CSI-2_Camera_to_HDMI_Bridge_Demo\ECP5_Raw10toParallel\source\image_pipe.v (2026-03-13 15:37:53)
+25       D:\synpbase\lib\lucent\ecp5um.v (2024-08-22 22:48:19)
+26       D:\synpbase\lib\lucent\pmi_def.v (2024-09-24 01:33:10)
+27       D:\synpbase\lib\vlog\hypermods.v (2024-09-24 01:33:35)
+28       D:\synpbase\lib\vlog\scemi_objects.v (2024-09-24 01:33:35)
+29       D:\synpbase\lib\vlog\scemi_pipes.svh (2024-09-24 01:33:35)
+
+*******************************************************************
+Unchanged modules: 19
+MID:  lib.cell.view
+0        work.CSC.verilog
+2        work.RAW10toParallel.verilog
+4        work.blanking_adjustment.verilog
+6        work.color.verilog
+7        work.colorspace.verilog
+8        work.colorspace_top.verilog
+9        work.debayer.verilog
+10       work.debayer_dpram.verilog
+11       work.dp_ram.verilog
+13       work.gammaCorrector_top.verilog
+15       work.hdmi_i2c_core.verilog
+16       work.hdmi_i2c_ctrl.verilog
+17       work.hdmi_i2c_top.verilog
+18       work.i2c_core.verilog
+20       work.i2c_top.verilog
+21       work.image_fifo.verilog
+22       work.image_pipe.verilog
+23       work.rb_ram.verilog
+24       work.sc_fifo.verilog

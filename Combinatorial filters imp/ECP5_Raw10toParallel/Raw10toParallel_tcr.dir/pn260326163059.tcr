@@ -1,0 +1,10 @@
+#Start recording tcl command: 3/26/2026 16:09:16
+#Project Location: D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel; Project name: Raw10toParallel
+prj_project open "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/Raw10toParallel.ldf"
+prj_run Map -impl impl1
+prj_run PAR -impl impl1
+prj_run Map -impl impl1
+prj_run PAR -impl impl1
+prj_run Export -impl impl1
+prj_run Export -impl impl1 -task Bitgen
+#Stop recording: 3/26/2026 16:30:59

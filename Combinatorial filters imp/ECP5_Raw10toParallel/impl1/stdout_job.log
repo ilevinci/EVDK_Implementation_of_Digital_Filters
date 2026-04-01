@@ -1,0 +1,85 @@
+{
+"Synplify Pro (R) Job Log" : {
+	"Date" : "19:35:25    31-Mar-2026",
+	"Working Directory" : "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/impl1",
+	"Install" : "D:/synpbase"
+},
+"impl1" :{
+   "Job Flow" : "Sequential",
+   "Start Time" : "19:34:15",
+   "Runtime" : "01m:10s",
+   "Executable Run Time" : "01m:08s",
+   "synthesis" : {
+      "Job Flow" : "Sequential",
+      "Start Time" : "19:34:15",
+      "Runtime" : "01m:10s",
+      "Executable Run Time" : "01m:08s",
+      "compile" : {
+         "Job Flow" : "Sequential",
+         "Start Time" : "19:34:15",
+         "Runtime" : "29s",
+         "Executable Run Time" : "27s",
+         "compile_flow" : {
+            "Job Flow" : "Sequential",
+            "Start Time" : "19:34:15",
+            "Runtime" : "23s",
+            "Executable Run Time" : "21s",
+            "compiler" : {
+               "executable" : "bin64/c_hdl.exe",
+               "Run Directory" : "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/impl1",
+               "Run State" : "Complete",
+               "Return Code" : "0",
+               "Has Errors" : "no",
+               "Run Start Time" : "19:34:15",
+               "Run Time" : "22s",
+               "Exe Run Time" : "21s",
+               "Memory Usage" : "-",
+               "Up-to-date (run skipped)" : "no"
+            },
+            "multi_srs_gen" : {
+               "executable" : "bin64/syn_nfilter.exe",
+               "Run Directory" : "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/impl1",
+               "Run State" : "Complete",
+               "Return Code" : "0",
+               "Has Errors" : "no",
+               "Run Start Time" : "19:34:37",
+               "Run Time" : "01s",
+               "Exe Run Time" : "00s",
+               "Memory Usage" : "-",
+               "Up-to-date (run skipped)" : "no"
+            }
+         },
+         "premap" : {
+            "executable" : "bin64/m_gen_lattice.exe",
+            "Run Directory" : "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/impl1",
+            "Run State" : "Complete",
+            "Return Code" : "1",
+            "Has Errors" : "no",
+            "Run Start Time" : "19:34:38",
+            "Run Time" : "06s",
+            "Exe Run Time" : "06s",
+            "Memory Usage" : "-",
+            "Up-to-date (run skipped)" : "no"
+         }
+      },
+      "map" : {
+         "Job Flow" : "Sequential",
+         "Start Time" : "19:34:44",
+         "Runtime" : "41s",
+         "Executable Run Time" : "41s",
+         "fpga_mapper" : {
+            "executable" : "bin64/m_gen_lattice.exe",
+            "Run Directory" : "D:/Desktop/Dual_CSI-2_Camera_to_HDMI_Bridge_Demo/ECP5_Raw10toParallel/impl1",
+            "Run State" : "Complete",
+            "Return Code" : "1",
+            "Has Errors" : "no",
+            "Run Start Time" : "19:34:44",
+            "Run Time" : "41s",
+            "Exe Run Time" : "41s",
+            "Memory Usage" : "-",
+            "Up-to-date (run skipped)" : "no"
+         }
+      }
+   }
+}
+}
