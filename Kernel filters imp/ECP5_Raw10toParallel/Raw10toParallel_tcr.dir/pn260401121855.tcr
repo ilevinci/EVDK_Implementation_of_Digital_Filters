@@ -1,0 +1,5 @@
+#Start recording tcl command: 4/1/2026 12:18:29
+#Project Location: C:/Users/Gianpaolo/Desktop/3x3_no_timing; Project name: Raw10toParallel
+prj_project open "C:/Users/Gianpaolo/Desktop/3x3_no_timing/Raw10toParallel.ldf"
+prj_project close
+#Stop recording: 4/1/2026 12:18:55

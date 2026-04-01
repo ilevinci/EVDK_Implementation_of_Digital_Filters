@@ -1,0 +1,1 @@
+Note: exposure of the camera and subsequent modules postprocessing can lead to a saturated output in bright scenes (such as outdoor). A possible solution is to tweak the "ab" module gains, remove the gamma-correction module, and change the exposure time of the camera inside the i2c control file.

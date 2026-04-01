@@ -1,0 +1,2 @@
+@E: CL172 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16919:15:16919:26|Only one always block can assign a given variable bright_count[19:0]
+

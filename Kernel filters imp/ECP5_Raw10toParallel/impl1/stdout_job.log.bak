@@ -1,0 +1,85 @@
+{
+"Synplify Pro (R) Job Log" : {
+	"Date" : "12:47:06    01-Apr-2026",
+	"Working Directory" : "C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1",
+	"Install" : "C:/lscc/diamond/3.14/synpbase"
+},
+"impl1" :{
+   "Job Flow" : "Sequential",
+   "Start Time" : "12:45:22",
+   "Runtime" : "01m:44s",
+   "Executable Run Time" : "01m:41s",
+   "synthesis" : {
+      "Job Flow" : "Sequential",
+      "Start Time" : "12:45:22",
+      "Runtime" : "01m:44s",
+      "Executable Run Time" : "01m:41s",
+      "compile" : {
+         "Job Flow" : "Sequential",
+         "Start Time" : "12:45:22",
+         "Runtime" : "45s",
+         "Executable Run Time" : "43s",
+         "compile_flow" : {
+            "Job Flow" : "Sequential",
+            "Start Time" : "12:45:22",
+            "Runtime" : "37s",
+            "Executable Run Time" : "35s",
+            "compiler" : {
+               "executable" : "bin64/c_hdl.exe",
+               "Run Directory" : "C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1",
+               "Run State" : "Complete",
+               "Return Code" : "0",
+               "Has Errors" : "no",
+               "Run Start Time" : "12:45:22",
+               "Run Time" : "34s",
+               "Exe Run Time" : "32s",
+               "Memory Usage" : "-",
+               "Up-to-date (run skipped)" : "no"
+            },
+            "multi_srs_gen" : {
+               "executable" : "bin64/syn_nfilter.exe",
+               "Run Directory" : "C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1",
+               "Run State" : "Complete",
+               "Return Code" : "0",
+               "Has Errors" : "no",
+               "Run Start Time" : "12:45:56",
+               "Run Time" : "03s",
+               "Exe Run Time" : "03s",
+               "Memory Usage" : "-",
+               "Up-to-date (run skipped)" : "no"
+            }
+         },
+         "premap" : {
+            "executable" : "bin64/m_gen_lattice.exe",
+            "Run Directory" : "C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1",
+            "Run State" : "Complete",
+            "Return Code" : "1",
+            "Has Errors" : "no",
+            "Run Start Time" : "12:45:59",
+            "Run Time" : "08s",
+            "Exe Run Time" : "08s",
+            "Memory Usage" : "-",
+            "Up-to-date (run skipped)" : "no"
+         }
+      },
+      "map" : {
+         "Job Flow" : "Sequential",
+         "Start Time" : "12:46:08",
+         "Runtime" : "58s",
+         "Executable Run Time" : "58s",
+         "fpga_mapper" : {
+            "executable" : "bin64/m_gen_lattice.exe",
+            "Run Directory" : "C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1",
+            "Run State" : "Complete",
+            "Return Code" : "1",
+            "Has Errors" : "no",
+            "Run Start Time" : "12:46:08",
+            "Run Time" : "58s",
+            "Exe Run Time" : "58s",
+            "Memory Usage" : "-",
+            "Up-to-date (run skipped)" : "no"
+         }
+      }
+   }
+}
+}

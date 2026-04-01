@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE		ispXCF	SYSTEM	"IspXCF.dtd" >
+<ispXCF version="3.14">
+	<Comment></Comment>
+	<Chain>
+		<Comm>JTAG</Comm>
+		<Device>
+			<SelectedProg value="TRUE"/>
+			<Pos>1</Pos>
+			<Vendor>Macronix</Vendor>
+			<Family>ECP5UM</Family>
+			<Name>LFE5UM-85F</Name>
+			<Package>All</Package>
+			<Bypass>
+				<InstrLen>8</InstrLen>
+				<InstrVal>11111111</InstrVal>
+				<BScanLen>1</BScanLen>
+				<BScanVal>0</BScanVal>
+			</Bypass>
+			<File>C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/Raw10toParallel_impl1.bit</File>
+			<FileTime>03/28/26 11:47:20</FileTime>
+			<JedecChecksum>0xF5A8</JedecChecksum>
+			<Operation>SPI Flash Erase,Program,Verify</Operation>
+			<Option>
+				<SVFVendor>JTAG STANDARD</SVFVendor>
+				<Usercode>0x00000000</Usercode>
+				<AccessMode>SPI Flash Background Programming</AccessMode>
+			</Option>
+			<FPGALoader>
+			<CPLDDevice>
+				<Device>
+					<Pos>1</Pos>
+					<Vendor>Lattice</Vendor>
+					<Family>ECP5UM</Family>
+					<Name>LFE5UM-85F</Name>
+					<IDCode>0x01113043</IDCode>
+					<Package>All</Package>
+					<PON>LFE5UM-85F</PON>
+					<Bypass>
+						<InstrLen>8</InstrLen>
+						<InstrVal>11111111</InstrVal>
+						<BScanLen>1</BScanLen>
+						<BScanVal>0</BScanVal>
+					</Bypass>
+					<MaskFile>C:/lscc/diamond/3.14/data/vmdata/database\xpga\ecp5\LFE5UM-85F.msk</MaskFile>
+					<Operation>Bypass</Operation>
+					<Option>
+						<SVFVendor>JTAG STANDARD</SVFVendor>
+						<IOState>HighZ</IOState>
+						<PreloadLength>750</PreloadLength>
+						<IOVectorData>0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</IOVectorData>
+						<AccessMode>JTAG</AccessMode>
+					</Option>
+				</Device>
+			</CPLDDevice>
+			<FlashDevice>
+				<Device>
+					<Pos>1</Pos>
+					<Vendor>Macronix</Vendor>
+					<Family>SPI Serial Flash</Family>
+					<Name>MX25L12835F</Name>
+					<IDCode>0x18</IDCode>
+					<Package>8-contact WSON</Package>
+					<Operation>SPI Flash Erase,Program,Verify</Operation>
+					<File>C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/Raw10toParallel_impl1.bit</File>
+					<AddressBase>0x00000000</AddressBase>
+					<EndAddress>0x001D0000</EndAddress>
+					<DeviceSize>128</DeviceSize>
+					<DataSize>1928042</DataSize>
+					<NumberOfDevices>1</NumberOfDevices>
+					<ReInitialize value="FALSE"/>
+				</Device>
+			</FlashDevice>
+			<FPGADevice>
+				<Device>
+					<Pos>1</Pos>
+					<Name></Name>
+					<File>C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/Raw10toParallel_impl1.bit</File>
+					<LocalChainList>
+						<LocalDevice index="-99"
+							name="Unknown"
+							file="C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/Raw10toParallel_impl1.bit"/>
+					</LocalChainList>
+					<Option>
+						<SVFVendor>JTAG STANDARD</SVFVendor>
+					</Option>
+				</Device>
+			</FPGADevice>
+			</FPGALoader>
+		</Device>
+	</Chain>
+	<ProjectOptions>
+		<Program>SEQUENTIAL</Program>
+		<Process>ENTIRED CHAIN</Process>
+		<OperationOverride>No Override</OperationOverride>
+		<StartTAP>TLR</StartTAP>
+		<EndTAP>TLR</EndTAP>
+		<VerifyUsercode value="FALSE"/>
+		<TCKDelay>1</TCKDelay>
+	</ProjectOptions>
+	<CableOptions>
+		<CableName>USB2</CableName>
+		<PortAdd>FTUSB-0</PortAdd>
+		<USBID>USB --- Serial Converter A Location 0000 Serial FT3KCURQA</USBID>
+		<JTAGPinSetting>
+			TMS	LOW;
+			TCK	LOW;
+			TDI	LOW;
+			TDO	LOW;
+		</JTAGPinSetting>
+	</CableOptions>
+</ispXCF>

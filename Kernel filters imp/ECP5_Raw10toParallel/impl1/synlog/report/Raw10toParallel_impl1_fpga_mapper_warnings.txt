@@ -1,0 +1,1067 @@
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_111 because it is equivalent to instance image_pipe_inst.u_invert.G_1. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_7 because it is equivalent to instance image_pipe_inst.u_invert.G_2. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_113 because it is equivalent to instance image_pipe_inst.u_invert.G_108. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_9 because it is equivalent to instance image_pipe_inst.u_invert.G_4. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_110 because it is equivalent to instance image_pipe_inst.u_invert.G_10. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":16732:4:16732:9|Removing sequential instance image_pipe_inst.u_invert.gray_dly_CF1[1:0] because it is equivalent to instance image_pipe_inst.u_invert.r_dly_CF1[1:0]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":16732:4:16732:9|Removing sequential instance image_pipe_inst.u_invert.r_dly_CF1[1:0] because it is equivalent to instance image_pipe_inst.u_invert.b_dly_CF1[1:0]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":16732:4:16732:9|Removing user instance image_pipe_inst.u_invert.gray_dly_C1[1:0] because it is equivalent to instance image_pipe_inst.u_invert.r_dly_C1[1:0]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":16732:4:16732:9|Removing user instance image_pipe_inst.u_invert.r_dly_C1[1:0] because it is equivalent to instance image_pipe_inst.u_invert.b_dly_C1[1:0]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":16732:4:16732:9|Removing sequential instance image_pipe_inst.u_invert.g_dly_CF1[1:0] because it is equivalent to instance image_pipe_inst.u_invert.b_dly_CF1[1:0]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_17 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_20 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_23 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_26 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_29 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_32 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_35 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_38 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_41 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_44 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_47 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_50 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_53 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_56 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_59 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_62 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_65 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_70 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_73 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_76 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_79 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_82 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_85 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_88 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_91 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_94 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_31 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_87 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_88 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_89 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_90 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_91 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_92 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_93 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_94 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_95 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_96 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_97 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_98 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_99 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_100 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.N_101 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_44 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_114 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_115 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_116 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_117 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_118 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_119 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_120 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_121 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_122 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_123 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_124 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_125 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_126 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_127 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_128 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_129 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.N_130 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_44 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_114 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_115 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_116 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_117 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_118 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_119 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_120 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_121 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_122 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_123 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_124 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_125 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_126 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_127 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_128 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_129 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.N_130 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.filter_active_7[2] has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_867 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_868 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_869 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_870 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_871 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_872 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_873 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_874 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_875 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_876 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_877 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_878 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_879 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_880 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_881 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_882 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_883 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_884 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_885 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_886 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_887 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_888 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_889 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_890 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_891 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_892 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_893 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_894 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_895 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_896 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_897 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_898 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_899 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_900 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_901 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_902 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_903 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_904 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_905 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_906 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_907 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_908 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_909 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_910 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_911 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_912 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_913 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_914 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_915 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_916 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_917 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_918 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_919 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_920 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_921 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_922 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_923 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_924 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_925 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_926 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_927 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_928 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_929 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_930 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_931 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_932 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_933 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_934 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_935 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_936 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_937 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_938 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_939 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_940 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_941 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_942 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_943 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_944 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_945 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_946 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_947 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_948 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_949 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_950 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_951 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_952 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_953 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_954 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_955 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_956 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_957 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_958 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_959 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_960 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_961 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_962 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_963 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_964 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_965 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_966 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_967 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_968 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_969 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_970 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_971 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_972 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_973 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.N_974 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_83 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_84 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_85 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_86 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_87 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_88 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_89 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_90 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_91 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_92 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_93 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_94 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_95 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_96 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_97 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_98 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_99 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_100 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_101 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_102 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_103 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_104 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_105 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_106 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_107 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_108 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_109 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_110 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_111 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_112 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_113 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_114 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_115 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_116 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_117 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_118 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_119 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_120 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_121 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_122 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_123 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_124 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_125 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_126 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_127 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_128 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_129 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_130 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_131 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_132 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_133 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_134 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_135 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_136 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_137 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_138 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_139 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_140 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_141 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_142 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_143 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_144 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_145 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_146 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_147 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_148 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_149 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_150 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_151 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_152 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_153 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.N_154 has multiple drivers .
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17334:4:17334:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17334:4:17334:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17334:4:17334:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17334:4:17334:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":18089:4:18089:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":18089:4:18089:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":18089:4:18089:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":18089:4:18089:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":20006:4:20006:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":20006:4:20006:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":20006:4:20006:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: FX528 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":20006:4:20006:9|Found syn_preserve on register step_cnt[0] which prevents the register from being packed into DSP
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net CSI2_sens_clk_c_c has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_70 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_73 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_76 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_79 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_82 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_85 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_88 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net reveal_ist_91 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_2_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17076 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17077 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17081 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17082 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17086 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17087 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17091 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17092 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17096 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17097 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_15 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17101 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17102 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_16 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_17 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17106 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17107 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_18 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_19 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17111 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17112 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_20 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_21 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17116 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17117 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_22 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_23 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17121 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17122 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17125 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17126 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17141 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row1_2_32 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_6_29 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17142 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17143 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17146 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17147 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17162 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_r_in_0_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_r_in_0_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17176 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17177 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17178 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17182 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17183 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17187 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17188 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17192 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17193 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17197 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17198 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_15 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_16 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17202 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17203 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_17 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_18 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17207 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17208 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_19 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_20 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17212 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17213 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_21 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_22 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17217 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17218 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_23 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_24 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17222 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17223 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_25 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_26 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17227 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17228 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_7_29 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17231 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17232 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17235 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17236 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_27 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_cooldown_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un5_col_cnt_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un1_Gain_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_15 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_16 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_17 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_18 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_19 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_20 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_21 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_22 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_23 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_24 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_25 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_26 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_27 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_28 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_29 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_30 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_31 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_32 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_33 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_34 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_ab.un2_lumination_calc_axb_35 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17279 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un1_linecnt_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.U_inst1.un6_pixcnt_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_1_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_1_5_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_1_5_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_3_0_1_5_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_1_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs1_a_1_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_1_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_24 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_1_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un1_row2_0_2_0_1_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_w_r_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_w_r_1_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.un2_G_abs_r has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.emboss_sum1_1_0_5_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.inf_abs0_a_0_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un3_b_data_out_r_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un7_r_data_out_r has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un3_b_data_out_r_0_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un3_b_data_out_r_0_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un3_g_data_out_r_0_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un3_g_data_out_r_0_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_N has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un3_g_data_out_r_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_17352 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un1_linecnt_1_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_debayer.un6_pixcnt_1_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core.cnt_128u has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net i2c_inst.i2c_core2.cnt_128u has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net hdmi_i2c_top_inst.hdmi_i2c_core_inst.cnt_128u has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_0 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_1 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_2 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_3 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_4 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_5 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_6 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_7 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_8 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_9 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_10 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_11 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_12 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_13 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_14 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_15 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_16 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_17 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_18 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net image_pipe_inst.u_invert.bright_count_4_i_m3_0_axb_19 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23329 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23331 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23333 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23335 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23337 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23339 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23341 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23343 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23345 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23347 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23349 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23351 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23354 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23369 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23373 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23408 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23410 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23412 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23414 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23416 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23418 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23420 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23422 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23424 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23426 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23428 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23430 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23432 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23434 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23436 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23438 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23462 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23464 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23466 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23468 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23470 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23472 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23474 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23476 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23478 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23480 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23482 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23484 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23487 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23495 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23497 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23514 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23520 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23546 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23548 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23550 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23552 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23554 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23556 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23558 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23560 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23562 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23564 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23566 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23568 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23570 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23572 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23574 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23577 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23585 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23587 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23608 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23614 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23619 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23621 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23623 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23625 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23627 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23629 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23631 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23633 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23635 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23637 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23640 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23642 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23644 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23646 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23648 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23650 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23652 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23654 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23656 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23658 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23660 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23662 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23664 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23666 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23668 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23670 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23672 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23674 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23676 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23678 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23680 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23682 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23684 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23956 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23958 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23960 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23962 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23964 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23966 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23968 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23970 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23972 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23974 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23976 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23978 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23980 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23982 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_23984 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24019 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24021 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24023 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24025 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24027 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24029 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24031 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24033 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24035 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24037 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24039 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24041 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24043 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24045 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24047 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24049 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24051 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24053 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24055 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24057 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24059 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24061 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24063 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24065 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24067 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24069 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24071 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24073 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24075 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24077 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24079 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24081 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24083 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24085 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24087 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24089 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24091 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24093 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24095 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24097 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24099 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24101 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24103 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24105 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24107 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24109 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24111 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24113 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24115 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24117 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24119 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24121 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24123 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24125 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24127 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24129 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24131 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24133 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24135 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24137 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24139 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24141 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24143 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24145 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24147 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24149 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24151 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24153 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24155 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24157 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24159 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24161 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24163 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24724 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24726 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24728 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24730 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24732 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24734 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24736 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24738 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24740 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24742 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24744 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24746 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24748 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24750 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24752 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24754 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24756 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24758 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24760 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24762 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24764 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24766 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24768 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24770 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24772 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24774 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24776 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24778 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24780 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24782 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24784 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24786 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24788 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24790 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24792 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24794 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24796 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24798 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24800 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24802 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24804 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24806 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24808 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24810 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24812 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24814 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24816 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24818 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24820 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24822 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24824 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24826 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24828 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24830 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24832 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24834 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24836 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24838 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24840 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24842 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24844 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24846 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24848 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24850 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24852 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24854 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24856 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24858 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24860 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24862 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24864 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24866 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24868 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24870 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24872 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24874 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24876 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24878 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24880 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24882 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24884 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24886 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24888 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24890 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24892 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24894 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24896 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24898 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24900 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24902 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24904 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24906 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24908 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24910 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24912 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24914 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24916 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24918 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24920 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24922 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24924 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24926 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24928 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24930 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24932 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24934 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24936 has multiple drivers .
+@W: BN161 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":126:7:126:21|Net N_24938 has multiple drivers .
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.cmd_0
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev_0[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.cmd_0
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev_0[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[7]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.cmd_0
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[0]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[1]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[2]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[3]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[4]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[5]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[6]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[0]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[1]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[2]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[3]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[4]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[5]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[6]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[7]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[0]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[1]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[2]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[3]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[4]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[5]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[6]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[7]
+@W: BW150 :|Clock hdmi_i2c_ctrl_uniq_1|un1_step_cnt_6_inferred_clock in set_clock_groups command cannot be found and will not be forward annotated
+@W: BW150 :|Clock i2c_ctrl_uniq_2|un1_step_cnt_4_inferred_clock in set_clock_groups command cannot be found and will not be forward annotated
+@W: BW150 :|Clock i2c_ctrl_uniq_1|un1_step_cnt_4_inferred_clock in set_clock_groups command cannot be found and will not be forward annotated
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.cmd_0
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev_0[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_dev[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_H[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.addr_reg_L[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst2.data_wr_H[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.cmd_0
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev_0[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_dev[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_H[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.addr_reg_L[7]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[0]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[1]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[2]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[3]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[4]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[5]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[6]
+@W: BN137 :|Found combinational loop during mapping at net i2c_inst.i2c_ctrl_inst.data_wr_H[7]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.cmd_0
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[0]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[1]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[2]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[3]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[4]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev_0[5]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[6]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[0]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[1]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[2]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[3]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[4]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[5]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[6]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_reg_H[7]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[0]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[1]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[2]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[3]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[4]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[5]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[6]
+@W: BN137 :|Found combinational loop during mapping at net hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.data_wr_H[7]
+@W: MT246 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17151:19:17151:37|Blackbox gammaCorrector is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
+@W: MT246 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":16657:15:16657:27|Blackbox colorspace is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
+@W: MT246 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":75:15:75:31|Blackbox jtagconn16 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
+@W: MT246 :"c:\lscc\diamond\3.14\module\reveal\src\ertl\ertl.v":1161:8:1161:21|Blackbox pmi_distributed_dpram_2s_1s_2s_reg_none_binary_ECP5UM_pmi_distributed_dpram_Z3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
+@W: MT246 :"c:\lscc\diamond\3.14\module\reveal\src\ertl\ertl.v":2162:8:2162:13|Blackbox pmi_ram_dp_Z5 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
+@W: MT420 |Found inferred clock RAW10toParallel|CSI2_sens_clk with period 4.38ns. Please declare a user-defined clock on port CSI2_sens_clk.
+@W: MT420 |Found inferred clock reveal_coretop|jtck_inferred_clock[0] with period 4.25ns. Please declare a user-defined clock on net RAW10toParallel_reveal_coretop_instance.jtck[0].
+@W: MT420 |Found inferred clock RAW10toParallel|clk_i with period 6.02ns. Please declare a user-defined clock on port clk_i.

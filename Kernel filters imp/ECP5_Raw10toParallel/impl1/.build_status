@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildStatus>
+    <Strategy name="Strategy1">
+        <Milestone name="Export" build_result="0" build_time="0">
+            <Task name="IBIS" build_result="0" update_result="3" update_time="0"/>
+            <Task name="TimingSimFileVlg" build_result="0" update_result="3" update_time="0"/>
+            <Task name="TimingSimFileVHD" build_result="0" update_result="3" update_time="0"/>
+            <Task name="Bitgen" build_result="2" update_result="0" update_time="1775041327"/>
+            <Task name="Promgen" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="Map" build_result="2" build_time="1775041023">
+            <Task name="Map" build_result="2" update_result="0" update_time="1775041023"/>
+            <Task name="MapTrace" build_result="2" update_result="0" update_time="1775041031"/>
+            <Task name="MapVerilogSimFile" build_result="0" update_result="3" update_time="0"/>
+            <Task name="MapVHDLSimFile" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="PAR" build_result="2" build_time="1775041272">
+            <Task name="PAR" build_result="2" update_result="0" update_time="1775041272"/>
+            <Task name="PARTrace" build_result="2" update_result="0" update_time="1775041282"/>
+            <Task name="IOTiming" build_result="2" update_result="0" update_time="1775041303"/>
+        </Milestone>
+        <Milestone name="Synthesis" build_result="2" build_time="1775041000">
+            <Task name="Synplify_Synthesis" build_result="2" update_result="0" update_time="1775041000"/>
+        </Milestone>
+        <Milestone name="TOOL_Report" build_result="0" build_time="0">
+            <Task name="HDLE" build_result="2" update_result="0" update_time="1775040895"/>
+            <Task name="BKM" build_result="0" update_result="2" update_time="1775040895"/>
+            <Task name="SSO" build_result="0" update_result="3" update_time="0"/>
+            <Task name="PIODRC" build_result="0" update_result="3" update_time="0"/>
+            <Task name="DEC" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="Translate" build_result="2" build_time="1775041012">
+            <Task name="Translate" build_result="2" update_result="0" update_time="1775041012"/>
+        </Milestone>
+        <Report name="Raw10toParallel_impl1.bgn" last_build_time="1775041326" last_build_size="4849"/>
+        <Report name="Raw10toParallel_impl1.bit" last_build_time="1775041326" last_build_size="1948904"/>
+        <Report name="Raw10toParallel_impl1.edi" last_build_time="1775040992" last_build_size="5085337"/>
+        <Report name="Raw10toParallel_impl1.ior" last_build_time="1775041303" last_build_size="6285"/>
+        <Report name="Raw10toParallel_impl1.ncd" last_build_time="1775041272" last_build_size="8596994"/>
+        <Report name="Raw10toParallel_impl1.ngd" last_build_time="1775041012" last_build_size="5021733"/>
+        <Report name="Raw10toParallel_impl1.tw1" last_build_time="1775041030" last_build_size="33028"/>
+        <Report name="Raw10toParallel_impl1.twr" last_build_time="1775041281" last_build_size="196797"/>
+        <Report name="Raw10toParallel_impl1_map.ncd" last_build_time="1775041023" last_build_size="6171926"/>
+    </Strategy>
+</BuildStatus>

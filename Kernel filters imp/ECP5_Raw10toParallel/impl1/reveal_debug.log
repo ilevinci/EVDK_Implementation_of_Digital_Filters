@@ -1,0 +1,123 @@
+Logfile for Reveal Analyzer
+Version: Diamond 3.14.0.75.2
+Platform: Windows8 64bit
+Filename: C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/reveal_debug.log
+First created: Sat 28. Mar 11:48:46 2026
+[11:48:50] runProject on device [1. LFE5UM-85F] using C:/Users/Gianpaolo/Desktop/3x3_no_timing/debug.rva [debug.rvl]
+[11:48:50] Connecting cableserver to run Reveal debugger....
+[11:48:50] @Connect
+[11:48:50] @SetSharableApplications,2,Reveal,Mico
+[11:48:51] @SetCablePort,USB2,FTUSB-0,8,0,0,1,1,0,0,0,1
+[11:48:51] @LockCable
+[11:48:51] @GetServerStatus
+[11:48:51] @Read
+[11:48:51] @SetTargetDevice,0
+[11:48:51] Connecting core0....
+[11:48:51] @ShiftIR,8,0,ER1
+[11:48:51] @ShiftDR,21,0,data (select core0)
+[11:48:51] @ShiftIR,8,0,ER2
+[11:48:51] Configuring core0....
+[11:48:51] @JumpState,RUN_TEST_IDLE
+[11:48:51] @JumpState,RUN_TEST_IDLE
+[11:48:51] @JumpState,RUN_TEST_IDLE
+[11:48:51] @ShiftIR,8,0,NOP
+[11:48:51] @JumpState,RUN_TEST_IDLE
+[11:48:51] @ShiftIR,8,0,ER2
+[11:48:51] @Set Odd Parity readback
+[11:48:51] @Set Odd Parity
+[11:48:51] @Set LA Start/Stop readback
+[11:48:51] @Set LA Start/Stop 
+[11:48:51] #Reveal IP Version = 1_6_042617
+[11:48:51] @Get Pattern
+[11:48:51] #pattern readout = a5a5
+[11:48:51] pattern readout passed!
+[11:48:51] @Get Tracy Signature
+[11:48:51] @Get Tracy Signature
+[11:48:51] #signature from core0 = 687012148
+[11:48:51] signature from core0 passed!
+[11:48:51] @Set Opcode Value
+[11:48:51] @Set Comp Value
+[11:48:51] @Set Mask Value
+[11:48:51] @Set Then Num
+[11:48:51] @Set NEXT THEN
+[11:48:51] @Set Cnt Cntg
+[11:48:51] @Set Event Count
+[11:48:51] @Set Event Count
+[11:48:51] @Get BurstWrite CRC
+[11:48:51] @Set Truth Tbl Addr Cnter Init
+[11:48:51] @Set Truth Table Prog
+[11:48:51] Configuring in burst mode....
+[11:48:51] @Get BurstWrite CRC
+[11:48:51] @Enable TE Trig
+[11:48:51] @Enable Trig Output OR All readback
+[11:48:51] @Enable Trig Output OR All
+[11:48:51] @Set Pre-Trig Sample
+[11:48:51] @Set Post-Trig Sample
+[11:48:51] finished configuration of core0
+[11:48:51] Starting all active cores....
+[11:48:51] @ShiftIR,8,0,ER1
+[11:48:51] @ShiftDR,21,0,data (select active cores)
+[11:48:51] @ShiftIR,8,0,ER2
+[11:48:51] @Set LA Start cores
+[11:48:51] @UnlockCable
+[11:48:51] Running all active cores....
+[11:48:51] @LockCable
+[11:48:51] Polling trigger memory of core0....
+[11:48:51] @ShiftIR,8,0,ER1
+[11:48:51] @ShiftDR,21,0,data (select core0)
+[11:48:51] @ShiftIR,8,0,ER2
+[11:48:51] @Get Force Trigger bit
+[11:48:51] #TM_CTL_0=3
+[11:48:51] @Get Trig Detected Cnt
+[11:48:51] #numDetectedTriggers = 0
+[11:48:51] @Get Mem Block Full Cnt
+[11:48:51] #memFullCnt = 0
+[11:48:51] detected 0 triggers of core0
+[11:48:51] captured 0 memory blocks of core0
+[11:48:51] @UnlockCable
+[11:48:52] Running all active cores....
+[11:48:52] @LockCable
+[11:48:52] Polling trigger memory of core0....
+[11:48:52] @ShiftIR,8,0,ER1
+[11:48:52] @ShiftDR,21,0,data (select core0)
+[11:48:52] @ShiftIR,8,0,ER2
+[11:48:52] @Get Force Trigger bit
+[11:48:52] #TM_CTL_0=5
+[11:48:52] @Get Trig Detected Cnt
+[11:48:52] #numDetectedTriggers = 1
+[11:48:52] @Get Mem Block Full Cnt
+[11:48:52] #memFullCnt = 1
+[11:48:52] Downloading trigger memory of core0....
+[11:48:52] @Is LA Armed
+[11:48:52] @Set LA Start/Stop readback
+[11:48:52] @Set LA Start/Stop 
+[11:48:52] @Set LA Start/Stop readback
+[11:48:52] @Set LA Start/Stop 
+[11:48:52] @Get Trig Detected Cnt
+[11:48:52] #numDetectedTriggers = 1
+[11:48:52] @Get Mem Block Full Cnt
+[11:48:52] #memFullCnt = 1
+[11:48:52] @Get Last Addr Written
+[11:48:52] #lastAddrWritten = 3242
+[11:48:52] @Get Multiple Trig Enbl
+[11:48:52] #traceWidth=32, userSelectedTriggers=1, numTrigEnable=1
+[11:48:52] @Get BurstRead CRC
+[11:48:52] @Set Trace Mem Cnter Init
+[11:48:52] Uploading in burst mode....
+[11:48:52] @ShiftDR,262144,1,data (burst read)
+[11:48:52] @GetTDO,data,262144
+[11:48:52] @Get BurstRead CRC
+[11:48:52] @Get BurstRead CRC
+[11:48:52] @Get Pre-Trig Sample Num
+[11:48:52] @Get Post-Trig Sample Num
+[11:48:52] @Get Pre-Trig Samples Captured
+[11:48:52] @Get Trig Ptr
+[11:48:52] #trigPtr = 3760
+[11:48:52] #dataSize=4, numRead=8192, trace_out=8192
+[11:48:52] #trig0={blockPosition:0,triggerPosition:512}
+[11:48:52] finished download trigger memory of core0
+[11:48:52] @UnlockCable
+[11:48:52] @ReleaseCablePort
+[11:48:52] @Disconnect
+[11:48:52] All messages logged in file C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/reveal_debug.log
+Last closed: Sat 28. Mar 11:49:47 2026

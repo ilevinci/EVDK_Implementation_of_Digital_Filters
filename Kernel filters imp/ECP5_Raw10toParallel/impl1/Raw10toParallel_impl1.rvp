@@ -1,0 +1,59 @@
+#-- Lattice Semiconductor Corporation Ltd.
+#-- Bali Reveal project file
+
+#device options
+[Device]
+part = LFE5UM-85F-8BG756C
+family = ECP5UM
+device = LFE5UM-85F
+speed = 8
+package = CABGA756
+operation = Commercial
+
+#design options
+[Design]
+title = Raw10toParallel
+path = C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1
+core_generate = C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1
+search_path = C:/Users/Gianpaolo/Desktop/3x3_no_timing
+top = RAW10toParallel
+lpf = C:/Users/Gianpaolo/Desktop/3x3_no_timing/Raw10toParallel.lpf
+synthesis = synplify
+
+#strategy options
+VHDL2008 = false
+
+#HDLs options
+[HDLs]
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/RAW10toParallel.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/ab.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/blanking_adjustment.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/debayer.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/gamma_correction.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/hdmi_i2c_core.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/hdmi_i2c_ctrl.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/hdmi_i2c_top.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/i2c_core.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/i2c_ctrl.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/i2c_top.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/image_pipe.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/dp_ram/debayer_dpram/debayer_dpram.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/dp_ram/rb_ram/rb_ram.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/dp_ram/dp_ram.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/Gamma/gammaCorrector/gammaCorrector_top.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/Gamma/gammaCorrector/gammaCorrector_bb.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/Gamma/Gamma.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/image_fifo/sc_fifo/sc_fifo.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/image_fifo/image_fifo.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/color.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/CSC/colorspace/colorspace_top.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/CSC/colorspace/colorspace_bb.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/source/clarity/CSC/CSC.v = Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/source/invert_filter.v = Verilog
+[HDL_Defines]
+SBP_SYNTHESIS=
+[HDL_Param]
+[Generated]
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/reveal_workspace/tmpreveal/raw10toparallel_la0_trig_gen.v=Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/reveal_workspace/tmpreveal/raw10toparallel_la0_gen.v=Verilog
+C:/Users/Gianpaolo/Desktop/3x3_no_timing/impl1/reveal_workspace/tmpreveal/RAW10toParallel_rvl.v=Verilog,work

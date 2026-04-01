@@ -1,0 +1,77 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":4567:7:4567:32|Synthesizing module blanking_adjustment_uniq_1 in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":25:7:25:10|Synthesizing module AND2 in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":367:7:367:9|Synthesizing module INV in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":810:7:810:10|Synthesizing module XOR2 in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":710:7:710:14|Synthesizing module ROM16X1A in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":866:7:866:12|Synthesizing module DP16KD in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":119:7:119:13|Synthesizing module FD1P3DX in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":160:7:160:13|Synthesizing module FD1S3BX in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":168:7:168:13|Synthesizing module FD1S3DX in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":76:7:76:11|Synthesizing module CCU2C in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":757:7:757:9|Synthesizing module VHI in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":761:7:761:9|Synthesizing module VLO in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\synpbase\lib\lucent\ecp5um.v":458:7:458:11|Synthesizing module MUX21 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":9495:7:9495:20|Synthesizing module sc_fifo_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":9468:7:9468:23|Synthesizing module image_fifo_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13603:7:13603:15|Synthesizing module ab_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":14084:7:14084:26|Synthesizing module debayer_dpram_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":14698:7:14698:26|Synthesizing module debayer_dpram_uniq_2 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":15312:7:15312:26|Synthesizing module debayer_dpram_uniq_3 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":15926:7:15926:26|Synthesizing module debayer_dpram_uniq_4 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13780:7:13780:20|Synthesizing module debayer_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":20708:7:20708:16|Synthesizing module colorspace in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16648:7:16648:27|Synthesizing module colorspace_top_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16625:7:16625:16|Synthesizing module CSC_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16569:7:16569:18|Synthesizing module color_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16671:7:16671:26|Synthesizing module invert_filter_uniq_1 in library work.
+@N: CL134 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16819:4:16819:9|Found RAM linebuf1, depth=1920, width=12
+@N: CL134 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16819:4:16819:9|Found RAM linebuf0, depth=1920, width=12
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":20678:7:20678:20|Synthesizing module gammaCorrector in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":17140:7:17140:18|Synthesizing module Gamma_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":17086:7:17086:29|Synthesizing module gamma_correction_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":8889:7:8889:23|Synthesizing module image_pipe_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":17310:7:17310:21|Synthesizing module i2c_ctrl_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":18823:7:18823:21|Synthesizing module i2c_core_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":18065:7:18065:21|Synthesizing module i2c_ctrl_uniq_2 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19372:7:19372:21|Synthesizing module i2c_core_uniq_2 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":17177:7:17177:20|Synthesizing module i2c_top_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19982:7:19982:26|Synthesizing module hdmi_i2c_ctrl_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":20140:7:20140:26|Synthesizing module hdmi_i2c_core_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19920:7:19920:25|Synthesizing module hdmi_i2c_top_uniq_1 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":11:7:11:30|Synthesizing module raw10toparallel_la0_trig in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":12:7:12:25|Synthesizing module raw10toparallel_la0 in library work.
+@N: CG364 :"C:\lscc\diamond\3.14\cae_library\synthesis\verilog\pmi_def.v":1162:7:1162:16|Synthesizing module jtagconn16 in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":3:7:3:20|Synthesizing module reveal_coretop in library work.
+@N: CG364 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":126:7:126:21|Synthesizing module RAW10toParallel in library work.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":51:7:51:13|Input reset_n is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":62:7:62:16|Input trigger_en is unused.
+@N: CL201 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":20447:4:20447:9|Trying to extract state machine for register i2c_cs.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":20149:21:20149:30|Input addr_reg_L is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":20151:21:20151:29|Input data_wr_L is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19992:15:19992:22|Input data_rdy is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19993:21:19993:27|Input data_rd is unused.
+@N: CL201 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19679:4:19679:9|Trying to extract state machine for register i2c_cs.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19383:21:19383:29|Input data_wr_L is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":18075:15:18075:22|Input data_rdy is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":18076:21:18076:27|Input data_rd is unused.
+@N: CL201 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":19130:4:19130:9|Trying to extract state machine for register i2c_cs.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":18834:21:18834:29|Input data_wr_L is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":17320:15:17320:22|Input data_rdy is unused.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":17321:21:17321:27|Input data_rd is unused.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16732:4:16732:9|Found sequential shift r_dly with address depth of 5 words and data bit width of 12.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16732:4:16732:9|Found sequential shift g_dly with address depth of 5 words and data bit width of 12.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16732:4:16732:9|Found sequential shift b_dly with address depth of 5 words and data bit width of 12.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16732:4:16732:9|Found sequential shift gray_dly with address depth of 5 words and data bit width of 12.
+@N: CL189 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":16915:4:16915:9|Register bit emboss_sum2[14] is always 0.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13998:4:13998:9|Found sequential shift select3 with address depth of 3 words and data bit width of 2.
+@N: CL189 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13965:4:13965:9|Register bit C[12] is always 0.
+@N: CL189 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13965:4:13965:9|Register bit N[12] is always 0.
+@N: CL189 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13965:4:13965:9|Register bit S[12] is always 0.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":14052:4:14052:9|Found sequential shift de with address depth of 3 words and data bit width of 1.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":14052:4:14052:9|Found sequential shift hsync with address depth of 3 words and data bit width of 1.
+@N: CL135 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":14052:4:14052:9|Found sequential shift vsync with address depth of 3 words and data bit width of 1.
+@N: CL159 :"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v":13783:10:13783:11|Input fv is unused.
+@N|Running in 64-bit mode
+

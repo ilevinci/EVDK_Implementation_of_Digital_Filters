@@ -1,0 +1,13 @@
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19077:4:19077:9|Removing sequential instance data_rd[7:0] (in view: work.i2c_core_uniq_1(verilog)) of type view:PrimLib.dffre(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19064:4:19064:9|Removing sequential instance data_rdy (in view: work.i2c_core_uniq_1(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19626:4:19626:9|Removing sequential instance data_rd[7:0] (in view: work.i2c_core_uniq_2(verilog)) of type view:PrimLib.dffre(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19613:4:19613:9|Removing sequential instance data_rdy (in view: work.i2c_core_uniq_2(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@N: MF578 |Incompatible asynchronous control logic preventing generated clock conversion.
+@N: MT611 :|Automatically generated clock hdmi_i2c_ctrl_uniq_1|un1_step_cnt_6_inferred_clock is not used and is being removed
+@N: MT611 :|Automatically generated clock i2c_ctrl_uniq_2|un1_step_cnt_4_inferred_clock is not used and is being removed
+@N: MT611 :|Automatically generated clock i2c_ctrl_uniq_1|un1_step_cnt_4_inferred_clock is not used and is being removed
+@N: FX1184 |Applying syn_allowed_resources blockrams=208 on top level netlist RAW10toParallel 
+@N: FX1143 |Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized.

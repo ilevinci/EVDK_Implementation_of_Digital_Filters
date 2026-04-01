@@ -1,0 +1,81 @@
+<!DOCTYPE ispTLA>
+<ispTLA>
+ <CreationDate>Fri 27. Feb 23:59:18 2026</CreationDate>
+ <XCFFileName/>
+ <CableSetting>
+  <IsTRSTConnected val="false"/>
+  <TRSTSetting val="0"/>
+  <IsBSCANConnected val="false"/>
+  <BSCANSetting val="0"/>
+  <CableType val="USB2"/>
+  <PortAddress val="0"/>
+  <PortSetting val="0"/>
+  <TCKDelay val="1"/>
+ </CableSetting>
+ <DeviceCount>1</DeviceCount>
+ <Device>
+  <DeviceIndex>0</DeviceIndex>
+  <DeviceName>1. LFE5UM-85F</DeviceName>
+  <DeviceID>0x01113043</DeviceID>
+  <HasIspTRACY>true</HasIspTRACY>
+  <HasJTAG2WB>false</HasJTAG2WB>
+  <SERDES/>
+  <IRBypassLen>8</IRBypassLen>
+  <RVLFileName>debug.rvl</RVLFileName>
+  <RVSFileName>debug.rvs</RVSFileName>
+  <LACoreCount>1</LACoreCount>
+  <WinUI CoreIndex="0">
+   <TraceSigTreeData>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown" NodeType="1" PortIndex="0">
+     <BusRadix Radix="0"/>
+     <IsExpanded Expand="false"/>
+    </TraceSignal>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:0" NodeType="2" PortIndex="0"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:1" NodeType="2" PortIndex="1"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:2" NodeType="2" PortIndex="2"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:3" NodeType="2" PortIndex="3"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:4" NodeType="2" PortIndex="4"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:5" NodeType="2" PortIndex="5"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:6" NodeType="2" PortIndex="6"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:7" NodeType="2" PortIndex="7"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/cooldown:8" NodeType="2" PortIndex="8"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/de_in" NodeType="0" PortIndex="9"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/filter_active" NodeType="1" PortIndex="10">
+     <BusRadix Radix="0"/>
+     <IsExpanded Expand="false"/>
+    </TraceSignal>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/filter_active:0" NodeType="2" PortIndex="10"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/filter_active:1" NodeType="2" PortIndex="11"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count" NodeType="1" PortIndex="12">
+     <BusRadix Radix="2"/>
+     <IsExpanded Expand="false"/>
+    </TraceSignal>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:0" NodeType="2" PortIndex="12"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:1" NodeType="2" PortIndex="13"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:2" NodeType="2" PortIndex="14"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:3" NodeType="2" PortIndex="15"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:4" NodeType="2" PortIndex="16"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:5" NodeType="2" PortIndex="17"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:6" NodeType="2" PortIndex="18"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:7" NodeType="2" PortIndex="19"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:8" NodeType="2" PortIndex="20"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:9" NodeType="2" PortIndex="21"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:10" NodeType="2" PortIndex="22"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:11" NodeType="2" PortIndex="23"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:12" NodeType="2" PortIndex="24"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:13" NodeType="2" PortIndex="25"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:14" NodeType="2" PortIndex="26"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:15" NodeType="2" PortIndex="27"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:16" NodeType="2" PortIndex="28"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:17" NodeType="2" PortIndex="29"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:18" NodeType="2" PortIndex="30"/>
+    <TraceSignal IsHidden="false" Name="image_pipe_inst/u_invert/bright_count:19" NodeType="2" PortIndex="31"/>
+   </TraceSigTreeData>
+   <TriggerUI UserSelect="0" PreSelectType="0" PreSelect="1" UserSelectPos="0"/>
+   <CoreRun Run="true"/>
+   <CoreWndUIData>
+    <ClockFrequency Unit="ns" Frequency="-1.0"/>
+   </CoreWndUIData>
+  </WinUI>
+ </Device>
+</ispTLA>

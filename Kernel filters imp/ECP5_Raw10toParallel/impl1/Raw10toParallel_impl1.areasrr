@@ -1,0 +1,529 @@
+----------------------------------------------------------------------
+Report for cell RAW10toParallel.verilog
+
+Register bits: 1927 of 83640 (2%)
+PIC Latch:       0
+I/O cells:       64
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                               AND2        3       100.0
+                              CCU2C      458       100.0
+                             DP16KD       34       100.0
+                            FD1P3AX       18       100.0
+                            FD1P3BX       39       100.0
+                            FD1P3DX      677       100.0
+                            FD1S3AX      166       100.0
+                            FD1S3BX       56       100.0
+                            FD1S3DX      920       100.0
+                                GSR        1       100.0
+                                 IB       15       100.0
+                           IFS1P3DX       12       100.0
+                                INV       74       100.0
+                            L6MUX21       85       100.0
+                         MULT18X18D        1       100.0
+                              MUX21       10       100.0
+                                 OB       49       100.0
+                           OFS1P3DX       39       100.0
+                           ORCALUT4     3123       100.0
+                              PFUMX      481       100.0
+                                PUR        1       100.0
+                           ROM16X1A        2       100.0
+                           ROM32X1A       38       100.0
+                           ROM64X1A       46       100.0
+                           SPR16X4C      372       100.0
+                                VHI       34       100.0
+                                VLO       34       100.0
+                               XOR2        1       100.0
+                         colorspace        1       100.0
+                     gammaCorrector        1       100.0
+                         jtagconn16        1       100.0
+          pmi_distributed_dpram_2s_1s_2s_reg_none_binary_ECP5UM_pmi_distributed_dpram_Z3        1       100.0
+                      pmi_ram_dp_Z5        1       100.0
+SUB MODULES 
+                         CSC_uniq_1        1       100.0
+                       Gamma_uniq_1        1       100.0
+          ab_uniq_1_1920_1080_1200_1100_1280_64_4        1       100.0
+          blanking_adjustment_uniq_1_Z1        1       100.0
+                       color_uniq_1        1       100.0
+              colorspace_top_uniq_1        1       100.0
+               debayer_dpram_uniq_1        1       100.0
+               debayer_dpram_uniq_2        1       100.0
+               debayer_dpram_uniq_3        1       100.0
+               debayer_dpram_uniq_4        1       100.0
+          debayer_uniq_1_1920_2200_1080_1125_88_44_148_4_5        1       100.0
+            gamma_correction_uniq_1        1       100.0
+               hdmi_i2c_core_uniq_1        1       100.0
+               hdmi_i2c_ctrl_uniq_1        1       100.0
+                hdmi_i2c_top_uniq_1        1       100.0
+                    i2c_core_uniq_1        1       100.0
+                    i2c_core_uniq_2        1       100.0
+                    i2c_ctrl_uniq_1        1       100.0
+                    i2c_ctrl_uniq_2        1       100.0
+                     i2c_top_uniq_1        1       100.0
+                  image_fifo_uniq_1        1       100.0
+                  image_pipe_uniq_1        1       100.0
+               invert_filter_uniq_1        1       100.0
+                raw10toparallel_la0        1       100.0
+           raw10toparallel_la0_trig        1       100.0
+                     reveal_coretop        1       100.0
+                     sc_fifo_uniq_1        1       100.0
+                            
+                         TOTAL          6821           
+----------------------------------------------------------------------
+Report for cell hdmi_i2c_top_uniq_1.netlist
+     Instance path:  hdmi_i2c_top_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       13         2.8
+                            FD1P3BX        2         5.1
+                            FD1P3DX       18         2.7
+                            FD1S3AX        1         0.6
+                            FD1S3BX        7        12.5
+                            FD1S3DX       41         4.5
+                                INV        7         9.5
+                           ORCALUT4      163         5.2
+                              PFUMX        2         0.4
+                                VHI        3         8.8
+                                VLO        3         8.8
+SUB MODULES 
+               hdmi_i2c_core_uniq_1        1       100.0
+               hdmi_i2c_ctrl_uniq_1        1       100.0
+                            
+                         TOTAL           262           
+----------------------------------------------------------------------
+Report for cell hdmi_i2c_core_uniq_1.netlist
+     Instance path:  hdmi_i2c_top_inst.hdmi_i2c_core_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       13         2.8
+                            FD1P3BX        2         5.1
+                            FD1P3DX       13         1.9
+                            FD1S3BX        7        12.5
+                            FD1S3DX       33         3.6
+                           ORCALUT4      107         3.4
+                              PFUMX        2         0.4
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           179           
+----------------------------------------------------------------------
+Report for cell hdmi_i2c_ctrl_uniq_1.verilog
+     Instance path:  hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                            FD1P3DX        5         0.7
+                            FD1S3AX        1         0.6
+                            FD1S3DX        8         0.9
+                                INV        7         9.5
+                           ORCALUT4       56         1.8
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL            79           
+----------------------------------------------------------------------
+Report for cell i2c_top_uniq_1.netlist
+     Instance path:  i2c_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       77        16.8
+                            FD1P3BX        4        10.3
+                            FD1P3DX       96        14.2
+                            FD1S3AX        2         1.2
+                            FD1S3BX       18        32.1
+                            FD1S3DX      130        14.1
+                                INV        9        12.2
+                           ORCALUT4      461        14.8
+                              PFUMX        3         0.6
+                           ROM32X1A       38       100.0
+                           ROM64X1A       46       100.0
+                                VHI        5        14.7
+                                VLO        5        14.7
+SUB MODULES 
+                    i2c_core_uniq_1        1       100.0
+                    i2c_core_uniq_2        1       100.0
+                    i2c_ctrl_uniq_1        1       100.0
+                    i2c_ctrl_uniq_2        1       100.0
+                            
+                         TOTAL           898           
+----------------------------------------------------------------------
+Report for cell i2c_core_uniq_2.netlist
+     Instance path:  i2c_inst.i2c_core2
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       13         2.8
+                            FD1P3BX        2         5.1
+                            FD1P3DX       18         2.7
+                            FD1S3BX        9        16.1
+                            FD1S3DX       45         4.9
+                           ORCALUT4      171         5.5
+                              PFUMX        1         0.2
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           261           
+----------------------------------------------------------------------
+Report for cell i2c_core_uniq_1.netlist
+     Instance path:  i2c_inst.i2c_core
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       13         2.8
+                            FD1P3BX        2         5.1
+                            FD1P3DX       15         2.2
+                            FD1S3BX        9        16.1
+                            FD1S3DX       41         4.5
+                           ORCALUT4      155         5.0
+                              PFUMX        2         0.4
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           239           
+----------------------------------------------------------------------
+Report for cell i2c_ctrl_uniq_1.verilog
+     Instance path:  i2c_inst.i2c_ctrl_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C        4         0.9
+                            FD1P3DX        7         1.0
+                            FD1S3AX        1         0.6
+                            FD1S3DX        6         0.7
+                                INV        3         4.1
+                           ORCALUT4       66         2.1
+                           ROM32X1A       19        50.0
+                           ROM64X1A       23        50.0
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           131           
+----------------------------------------------------------------------
+Report for cell i2c_ctrl_uniq_2.verilog
+     Instance path:  i2c_inst.i2c_ctrl_inst2
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C        4         0.9
+                            FD1P3DX        7         1.0
+                            FD1S3AX        1         0.6
+                            FD1S3DX        6         0.7
+                                INV        3         4.1
+                           ORCALUT4       66         2.1
+                           ROM32X1A       19        50.0
+                           ROM64X1A       23        50.0
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           131           
+----------------------------------------------------------------------
+Report for cell image_pipe_uniq_1.netlist
+     Instance path:  image_pipe_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                               AND2        3       100.0
+                              CCU2C      324        70.7
+                             DP16KD       34       100.0
+                            FD1P3DX      246        36.3
+                            FD1S3AX       64        38.6
+                            FD1S3BX        1         1.8
+                            FD1S3DX      572        62.2
+                                INV       44        59.5
+                            L6MUX21       84        98.8
+                         MULT18X18D        1       100.0
+                              MUX21       10       100.0
+                           ORCALUT4     1944        62.2
+                              PFUMX      468        97.3
+                           ROM16X1A        2       100.0
+                           SPR16X4C      372       100.0
+                                VHI       16        47.1
+                                VLO       16        47.1
+                               XOR2        1       100.0
+                         colorspace        1       100.0
+                     gammaCorrector        1       100.0
+SUB MODULES 
+                         CSC_uniq_1        1       100.0
+                       Gamma_uniq_1        1       100.0
+          ab_uniq_1_1920_1080_1200_1100_1280_64_4        1       100.0
+          blanking_adjustment_uniq_1_Z1        1       100.0
+                       color_uniq_1        1       100.0
+              colorspace_top_uniq_1        1       100.0
+               debayer_dpram_uniq_1        1       100.0
+               debayer_dpram_uniq_2        1       100.0
+               debayer_dpram_uniq_3        1       100.0
+               debayer_dpram_uniq_4        1       100.0
+          debayer_uniq_1_1920_2200_1080_1125_88_44_148_4_5        1       100.0
+            gamma_correction_uniq_1        1       100.0
+                  image_fifo_uniq_1        1       100.0
+               invert_filter_uniq_1        1       100.0
+                     sc_fifo_uniq_1        1       100.0
+                            
+                         TOTAL          4219           
+----------------------------------------------------------------------
+Report for cell gamma_correction_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_gamma_correction
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                            FD1S3DX       15         1.6
+                                VHI        2         5.9
+                                VLO        2         5.9
+                     gammaCorrector        1       100.0
+SUB MODULES 
+                       Gamma_uniq_1        1       100.0
+                            
+                         TOTAL            21           
+----------------------------------------------------------------------
+Report for cell Gamma_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_gamma_correction.gamma_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                                VHI        1         2.9
+                                VLO        1         2.9
+                     gammaCorrector        1       100.0
+                            
+                         TOTAL             3           
+----------------------------------------------------------------------
+Report for cell invert_filter_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_invert
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C      159        34.7
+                             DP16KD        2         5.9
+                            FD1P3DX      108        16.0
+                            FD1S3AX       64        38.6
+                            FD1S3DX      228        24.8
+                                INV       37        50.0
+                            L6MUX21       84        98.8
+                           ORCALUT4     1509        48.3
+                              PFUMX      432        89.8
+                           SPR16X4C      372       100.0
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL          2997           
+----------------------------------------------------------------------
+Report for cell color_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_color
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                            FD1S3DX       33         3.6
+                                VHI        3         8.8
+                                VLO        3         8.8
+                         colorspace        1       100.0
+SUB MODULES 
+                         CSC_uniq_1        1       100.0
+              colorspace_top_uniq_1        1       100.0
+                            
+                         TOTAL            42           
+----------------------------------------------------------------------
+Report for cell CSC_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_color.csc_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                                VHI        2         5.9
+                                VLO        2         5.9
+                         colorspace        1       100.0
+SUB MODULES 
+              colorspace_top_uniq_1        1       100.0
+                            
+                         TOTAL             6           
+----------------------------------------------------------------------
+Report for cell colorspace_top_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_color.csc_inst.colorspace_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                                VHI        1         2.9
+                                VLO        1         2.9
+                         colorspace        1       100.0
+                            
+                         TOTAL             3           
+----------------------------------------------------------------------
+Report for cell debayer_uniq_1_1920_2200_1080_1125_88_44_148_4_5.netlist
+     Instance path:  image_pipe_inst.u_debayer
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       71        15.5
+                             DP16KD       12        35.3
+                            FD1S3DX      199        21.6
+                           ORCALUT4      307         9.8
+                              PFUMX       36         7.5
+                                VHI        5        14.7
+                                VLO        5        14.7
+SUB MODULES 
+               debayer_dpram_uniq_1        1       100.0
+               debayer_dpram_uniq_2        1       100.0
+               debayer_dpram_uniq_3        1       100.0
+               debayer_dpram_uniq_4        1       100.0
+                            
+                         TOTAL           639           
+----------------------------------------------------------------------
+Report for cell debayer_dpram_uniq_4.netlist
+     Instance path:  image_pipe_inst.u_debayer.inst11
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                             DP16KD        3         8.8
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL             5           
+----------------------------------------------------------------------
+Report for cell debayer_dpram_uniq_3.netlist
+     Instance path:  image_pipe_inst.u_debayer.inst10
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                             DP16KD        3         8.8
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL             5           
+----------------------------------------------------------------------
+Report for cell debayer_dpram_uniq_2.netlist
+     Instance path:  image_pipe_inst.u_debayer.inst01
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                             DP16KD        3         8.8
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL             5           
+----------------------------------------------------------------------
+Report for cell debayer_dpram_uniq_1.netlist
+     Instance path:  image_pipe_inst.u_debayer.inst00
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                             DP16KD        3         8.8
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL             5           
+----------------------------------------------------------------------
+Report for cell ab_uniq_1_1920_1080_1200_1100_1280_64_4.netlist
+     Instance path:  image_pipe_inst.u_ab
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       25         5.5
+                            FD1P3DX       73        10.8
+                            FD1S3DX       65         7.1
+                         MULT18X18D        1       100.0
+                           ORCALUT4       88         2.8
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           254           
+----------------------------------------------------------------------
+Report for cell image_fifo_uniq_1.netlist
+     Instance path:  image_pipe_inst.dcfifo_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                               AND2        3       100.0
+                              CCU2C       47        10.3
+                             DP16KD       20        58.8
+                            FD1P3DX       50         7.4
+                            FD1S3BX        1         1.8
+                            FD1S3DX        1         0.1
+                                INV        4         5.4
+                              MUX21       10       100.0
+                           ROM16X1A        2       100.0
+                                VHI        2         5.9
+                                VLO        2         5.9
+                               XOR2        1       100.0
+SUB MODULES 
+                     sc_fifo_uniq_1        1       100.0
+                            
+                         TOTAL           144           
+----------------------------------------------------------------------
+Report for cell sc_fifo_uniq_1.netlist
+     Instance path:  image_pipe_inst.dcfifo_inst.sc_fifo_inst
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                               AND2        3       100.0
+                              CCU2C       47        10.3
+                             DP16KD       20        58.8
+                            FD1P3DX       50         7.4
+                            FD1S3BX        1         1.8
+                            FD1S3DX        1         0.1
+                                INV        4         5.4
+                              MUX21       10       100.0
+                           ROM16X1A        2       100.0
+                                VHI        1         2.9
+                                VLO        1         2.9
+                               XOR2        1       100.0
+                            
+                         TOTAL           141           
+----------------------------------------------------------------------
+Report for cell blanking_adjustment_uniq_1_Z1.netlist
+     Instance path:  image_pipe_inst.U_inst1
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       22         4.8
+                            FD1P3DX       15         2.2
+                            FD1S3DX       26         2.8
+                                INV        2         2.7
+                           ORCALUT4       38         1.2
+                                VHI        1         2.9
+                                VLO        1         2.9
+                            
+                         TOTAL           105           
+----------------------------------------------------------------------
+Report for cell reveal_coretop.verilog
+     Instance path:  RAW10toParallel_reveal_coretop_instance
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       44         9.6
+                            FD1P3AX       18       100.0
+                            FD1P3BX       33        84.6
+                            FD1P3DX      317        46.8
+                            FD1S3BX        2         3.6
+                            FD1S3DX       60         6.5
+                                INV       11        14.9
+                            L6MUX21        1         1.2
+                           ORCALUT4      555        17.8
+                              PFUMX        8         1.7
+                                VHI        9        26.5
+                                VLO        9        26.5
+                         jtagconn16        1       100.0
+          pmi_distributed_dpram_2s_1s_2s_reg_none_binary_ECP5UM_pmi_distributed_dpram_Z3        1       100.0
+                      pmi_ram_dp_Z5        1       100.0
+SUB MODULES 
+                raw10toparallel_la0        1       100.0
+           raw10toparallel_la0_trig        1       100.0
+                            
+                         TOTAL          1072           
+----------------------------------------------------------------------
+Report for cell raw10toparallel_la0.netlist
+     Instance path:  RAW10toParallel_reveal_coretop_instance.raw10toparallel_la0_inst_0
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C       44         9.6
+                            FD1P3AX       18       100.0
+                            FD1P3BX       33        84.6
+                            FD1P3DX      317        46.8
+                            FD1S3BX        2         3.6
+                            FD1S3DX       60         6.5
+                                INV       11        14.9
+                            L6MUX21        1         1.2
+                           ORCALUT4      555        17.8
+                              PFUMX        8         1.7
+                                VHI        8        23.5
+                                VLO        8        23.5
+          pmi_distributed_dpram_2s_1s_2s_reg_none_binary_ECP5UM_pmi_distributed_dpram_Z3        1       100.0
+                      pmi_ram_dp_Z5        1       100.0
+SUB MODULES 
+           raw10toparallel_la0_trig        1       100.0
+                            
+                         TOTAL          1068           
+----------------------------------------------------------------------
+Report for cell raw10toparallel_la0_trig.netlist
+     Instance path:  RAW10toParallel_reveal_coretop_instance.raw10toparallel_la0_inst_0.trig_u
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                              CCU2C        9         2.0
+                            FD1P3AX       16        88.9
+                            FD1P3BX        1         2.6
+                            FD1P3DX       36         5.3
+                            FD1S3BX        2         3.6
+                            FD1S3DX       15         1.6
+                                INV        5         6.8
+                            L6MUX21        1         1.2
+                           ORCALUT4      111         3.6
+                              PFUMX        3         0.6
+                                VHI        5        14.7
+                                VLO        5        14.7
+          pmi_distributed_dpram_2s_1s_2s_reg_none_binary_ECP5UM_pmi_distributed_dpram_Z3        1       100.0
+                            
+                         TOTAL           210           

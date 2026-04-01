@@ -1,0 +1,55 @@
+<Project ModBy="Analyzer" Name="C:/Users/Gianpaolo/Desktop/3x3_no_timing/debug.rvs" Date="2026-03-25">
+ <Core Name="RAW10toParallel_LA0">
+  <Setting>
+   <Capture SamplesPerTrig="8192" NumTrigsCap="1"/>
+   <Event EventCnt="0" CntEnableRun="0"/>
+   <TrigSetting PreTrgSamples="" AND_ALL="0" PostTrgSamples="" TURadix="0"/>
+  </Setting>
+  <Dataset Name="Base">
+   <Trace>
+    <Bus Name="image_pipe_inst/u_invert/cooldown" Radix="0">
+     <Sig Name="image_pipe_inst/u_invert/cooldown:0"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:1"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:2"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:3"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:4"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:5"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:6"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:7"/>
+     <Sig Name="image_pipe_inst/u_invert/cooldown:8"/>
+    </Bus>
+    <Sig Name="image_pipe_inst/u_invert/de_in"/>
+    <Bus Name="image_pipe_inst/u_invert/filter_active" Radix="0">
+     <Sig Name="image_pipe_inst/u_invert/filter_active:0"/>
+     <Sig Name="image_pipe_inst/u_invert/filter_active:1"/>
+    </Bus>
+    <Bus Name="image_pipe_inst/u_invert/bright_count" Radix="0">
+     <Sig Name="image_pipe_inst/u_invert/bright_count:0"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:1"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:2"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:3"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:4"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:5"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:6"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:7"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:8"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:9"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:10"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:11"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:12"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:13"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:14"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:15"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:16"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:17"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:18"/>
+     <Sig Name="image_pipe_inst/u_invert/bright_count:19"/>
+    </Bus>
+   </Trace>
+   <Trigger>
+    <TU Operator="0" Name="TU1" ID="1" Value="1" Radix="0"/>
+    <TE Enable="1" Expression="TU1" Name="TE1" ID="1"/>
+   </Trigger>
+  </Dataset>
+ </Core>
+</Project>

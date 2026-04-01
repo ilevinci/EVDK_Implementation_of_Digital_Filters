@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- *************************************************************************************
+FILE DESCRIPTION
+Max Top 5 critical clocks will be reported. For rest user needs to refer to Detailed report
+*******************************************************************************************-->
+<report_table display_priority="2" name="Timing Summary">
+<report_link name="Detailed report">
+<data>C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\synlog\Raw10toParallel_impl1_fpga_mapper.srr</data>
+<title>START OF TIMING REPORT</title>
+</report_link>
+<row>
+<data tcl_name="clock_name">Clock Name</data>
+<data tcl_name="req_freq">Req Freq</data>
+<data tcl_name="est_freq">Est Freq</data>
+<data tcl_name="slack">Slack</data>
+</row>
+<row>
+<data>RAW10toParallel|CSI2_sens_clk</data>
+<data>228.2 MHz</data>
+<data>194.0 MHz</data>
+<data>-0.773</data>
+</row>
+<row>
+<data>RAW10toParallel|clk_i</data>
+<data>166.2 MHz</data>
+<data>141.3 MHz</data>
+<data>-1.062</data>
+</row>
+<row>
+<data>reveal_coretop|jtck_inferred_clock[0]</data>
+<data>235.2 MHz</data>
+<data>199.9 MHz</data>
+<data>-0.750</data>
+</row>
+<row>
+<data>System</data>
+<data>510.4 MHz</data>
+<data>433.8 MHz</data>
+<data>-0.346</data>
+</row>
+</report_table>

@@ -1,0 +1,9 @@
+#List of actual used RTLs.
+
+File                                                                                                              Type     IN_PROJECT/INCLUDED/LIBRARY
+
+"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\RAW10toParallel_rvl.v"              verilog                      IN PROJECT
+"C:\lscc\diamond\3.14\cae_library\synthesis\verilog\pmi_def.v"                                                 verilog                      IN PROJECT
+"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v"          verilog                      IN PROJECT
+"C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v"     verilog                      IN PROJECT
+"C:\lscc\diamond\3.14\module\reveal\src\ertl\ertl.v"                                                           verilog                      IN PROJECT

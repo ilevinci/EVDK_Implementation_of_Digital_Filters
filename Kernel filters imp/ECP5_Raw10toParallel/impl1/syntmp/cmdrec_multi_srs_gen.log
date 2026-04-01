@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.14\synpbase\bin64\syn_nfilter.exe  -link  -top  RAW10toParallel  -multisrs  C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\synwork\Raw10toParallel_impl1_comp.srs  -osyn  C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\synwork\Raw10toParallel_impl1_mult.srs  -log  C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\synlog\Raw10toParallel_impl1_multi_srs_gen.srr 
+relcom:..\..\..\..\..\..\lscc\diamond\3.14\synpbase\bin64\syn_nfilter.exe -link -top RAW10toParallel -multisrs ..\synwork\Raw10toParallel_impl1_comp.srs -osyn ..\synwork\Raw10toParallel_impl1_mult.srs -log ..\synlog\Raw10toParallel_impl1_multi_srs_gen.srr
+rc:0 success:1 runtime:3
+file:..\synwork\raw10toparallel_impl1_comp.srs|io:i|time:1775040931|size:241475|exec:0|csum:61C2D06A83A53DCEE66D1278EDB8FA20
+file:..\synwork\raw10toparallel_impl1_mult.srs|io:o|time:1775040935|size:6301|exec:0|csum:
+file:..\synlog\raw10toparallel_impl1_multi_srs_gen.srr|io:o|time:1775040935|size:1158|exec:0|csum:
+file:..\..\..\..\..\..\lscc\diamond\3.14\synpbase\bin64\syn_nfilter.exe|io:i|time:1727134362|size:10549248|exec:1|csum:D91EA53737F6BC51A484A15DD0EB29F5

@@ -1,0 +1,347 @@
+# Wed Apr  1 12:55:35 2026
+
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09L-2
+Install: C:\lscc\diamond\3.14\synpbase
+OS: Windows 10 or later
+Hostname: PASTASCIUTTA
+
+Implementation : impl1
+Synopsys Lattice Technology Pre-mapping, Version map202309lat, Build 191R, Built Sep 17 2024 10:38:50, @
+
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 184MB peak: 184MB)
+
+
+Done reading skeleton netlist (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 190MB peak: 199MB)
+
+@A: MF827 |No constraint file specified.
+@L: C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\Raw10toParallel_impl1_scck.rpt 
+See clock summary report "C:\Users\Gianpaolo\Desktop\3x3_no_timing\impl1\Raw10toParallel_impl1_scck.rpt"
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+
+Design Input Complete (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 201MB peak: 201MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 201MB peak: 202MB)
+
+
+Start loading timing files (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 213MB peak: 213MB)
+
+
+Finished loading timing files (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 214MB peak: 216MB)
+
+NConnInternalConnection caching is on
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_81 because it is equivalent to instance image_pipe_inst.u_invert.G_116. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_46 because it is equivalent to instance image_pipe_inst.u_invert.G_116. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_116 because it is equivalent to instance image_pipe_inst.u_invert.G_11. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_71 because it is equivalent to instance image_pipe_inst.u_invert.G_106. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_36 because it is equivalent to instance image_pipe_inst.u_invert.G_106. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_106 because it is equivalent to instance image_pipe_inst.u_invert.G_1. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_76 because it is equivalent to instance image_pipe_inst.u_invert.G_111. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_41 because it is equivalent to instance image_pipe_inst.u_invert.G_111. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_6 because it is equivalent to instance image_pipe_inst.u_invert.G_111. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_42 because it is equivalent to instance image_pipe_inst.u_invert.G_7. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_77 because it is equivalent to instance image_pipe_inst.u_invert.G_7. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_112 because it is equivalent to instance image_pipe_inst.u_invert.G_7. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_72 because it is equivalent to instance image_pipe_inst.u_invert.G_37. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_107 because it is equivalent to instance image_pipe_inst.u_invert.G_37. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_37 because it is equivalent to instance image_pipe_inst.u_invert.G_2. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_73 because it is equivalent to instance image_pipe_inst.u_invert.G_108. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_38 because it is equivalent to instance image_pipe_inst.u_invert.G_108. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_3 because it is equivalent to instance image_pipe_inst.u_invert.G_108. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_78 because it is equivalent to instance image_pipe_inst.u_invert.G_113. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_43 because it is equivalent to instance image_pipe_inst.u_invert.G_113. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_8 because it is equivalent to instance image_pipe_inst.u_invert.G_113. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_39 because it is equivalent to instance image_pipe_inst.u_invert.G_4. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_74 because it is equivalent to instance image_pipe_inst.u_invert.G_4. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_109 because it is equivalent to instance image_pipe_inst.u_invert.G_4. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_44 because it is equivalent to instance image_pipe_inst.u_invert.G_9. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_79 because it is equivalent to instance image_pipe_inst.u_invert.G_9. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_114 because it is equivalent to instance image_pipe_inst.u_invert.G_9. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_75 because it is equivalent to instance image_pipe_inst.u_invert.G_110. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_40 because it is equivalent to instance image_pipe_inst.u_invert.G_110. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_5 because it is equivalent to instance image_pipe_inst.u_invert.G_110. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_80 because it is equivalent to instance image_pipe_inst.u_invert.G_115. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_45 because it is equivalent to instance image_pipe_inst.u_invert.G_115. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing sequential instance image_pipe_inst.u_invert.G_115 because it is equivalent to instance image_pipe_inst.u_invert.G_10. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+
+Starting HSTDM IP insertion (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:03s; Memory used current: 266MB peak: 266MB)
+
+
+Finished HSTDM IP insertion (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 266MB peak: 266MB)
+
+
+Started DisTri Cleanup (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 266MB peak: 266MB)
+
+
+Finished DisTri Cleanup (Real Time elapsed 0h:00m:03s; CPU Time elapsed 0h:00m:03s; Memory used current: 266MB peak: 267MB)
+
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19077:4:19077:9|Removing sequential instance data_rd[7:0] (in view: work.i2c_core_uniq_1(verilog)) of type view:PrimLib.dffre(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19064:4:19064:9|Removing sequential instance data_rdy (in view: work.i2c_core_uniq_1(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19626:4:19626:9|Removing sequential instance data_rd[7:0] (in view: work.i2c_core_uniq_2(verilog)) of type view:PrimLib.dffre(prim) because it does not drive other instances.
+@N: BN362 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":19613:4:19613:9|Removing sequential instance data_rdy (in view: work.i2c_core_uniq_2(verilog)) of type view:PrimLib.dffr(prim) because it does not drive other instances.
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+Encoding state machine i2c_cs[21:0] (in view: work.i2c_core_uniq_1(verilog))
+original code -> new code
+   000001 -> 0000000000000000000001
+   000010 -> 0000000000000000000010
+   000011 -> 0000000000000000000100
+   000100 -> 0000000000000000001000
+   000101 -> 0000000000000000010000
+   000110 -> 0000000000000000100000
+   000111 -> 0000000000000001000000
+   001000 -> 0000000000000010000000
+   001001 -> 0000000000000100000000
+   001010 -> 0000000000001000000000
+   001101 -> 0000000000010000000000
+   001110 -> 0000000000100000000000
+   001111 -> 0000000001000000000000
+   010000 -> 0000000010000000000000
+   010001 -> 0000000100000000000000
+   010010 -> 0000001000000000000000
+   010101 -> 0000010000000000000000
+   010110 -> 0000100000000000000000
+   010111 -> 0001000000000000000000
+   011000 -> 0010000000000000000000
+   011001 -> 0100000000000000000000
+   011010 -> 1000000000000000000000
+Encoding state machine i2c_cs[21:0] (in view: work.i2c_core_uniq_2(verilog))
+original code -> new code
+   000001 -> 0000000000000000000001
+   000010 -> 0000000000000000000010
+   000011 -> 0000000000000000000100
+   000100 -> 0000000000000000001000
+   000101 -> 0000000000000000010000
+   000110 -> 0000000000000000100000
+   000111 -> 0000000000000001000000
+   001000 -> 0000000000000010000000
+   001001 -> 0000000000000100000000
+   001010 -> 0000000000001000000000
+   001101 -> 0000000000010000000000
+   001110 -> 0000000000100000000000
+   001111 -> 0000000001000000000000
+   010000 -> 0000000010000000000000
+   010001 -> 0000000100000000000000
+   010010 -> 0000001000000000000000
+   010101 -> 0000010000000000000000
+   010110 -> 0000100000000000000000
+   010111 -> 0001000000000000000000
+   011000 -> 0010000000000000000000
+   011001 -> 0100000000000000000000
+   011010 -> 1000000000000000000000
+Encoding state machine i2c_cs[11:0] (in view: work.hdmi_i2c_core_uniq_1(verilog))
+original code -> new code
+   000001 -> 000000000001
+   000010 -> 000000000010
+   000011 -> 000000000100
+   000100 -> 000000001000
+   000101 -> 000000010000
+   000110 -> 000000100000
+   001001 -> 000001000000
+   001010 -> 000010000000
+   010111 -> 000100000000
+   011000 -> 001000000000
+   011001 -> 010000000000
+   011010 -> 100000000000
+Encoding state machine <encrypted> (in view: work.rvl_te_Z2(verilog))
+original code -> new code
+   00 -> 00
+   01 -> 01
+   10 -> 10
+
+Starting clock optimization phase (Real Time elapsed 0h:00m:04s; CPU Time elapsed 0h:00m:04s; Memory used current: 276MB peak: 276MB)
+
+
+mixed edge conversion for GCC is OFF
+@N: MF578 |Incompatible asynchronous control logic preventing generated clock conversion.
+@W: BZ240 :|GCC encountered Inferred Clock constraint on net GCC considers to be data hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.un1_step_cnt_6; this will likely lead to failure to convert
+@W: BZ240 :|GCC encountered Inferred Clock constraint on net GCC considers to be data i2c_inst.i2c_ctrl_inst2.un1_step_cnt_4; this will likely lead to failure to convert
+@W: BZ240 :|GCC encountered Inferred Clock constraint on net GCC considers to be data i2c_inst.i2c_ctrl_inst.un1_step_cnt_4; this will likely lead to failure to convert
+
+Finished clock optimization phase (Real Time elapsed 0h:00m:04s; CPU Time elapsed 0h:00m:04s; Memory used current: 277MB peak: 277MB)
+
+@W: BZ101 |Potential glitch can occur at the output of 14 instances  
+@N: MT611 :|Automatically generated clock hdmi_i2c_ctrl_uniq_1|un1_step_cnt_6_inferred_clock is not used and is being removed
+@N: MT611 :|Automatically generated clock i2c_ctrl_uniq_2|un1_step_cnt_4_inferred_clock is not used and is being removed
+@N: MT611 :|Automatically generated clock i2c_ctrl_uniq_1|un1_step_cnt_4_inferred_clock is not used and is being removed
+
+Starting clock optimization report phase (Real Time elapsed 0h:00m:04s; CPU Time elapsed 0h:00m:04s; Memory used current: 278MB peak: 278MB)
+
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":95:0:95:9|Instance jtag_int_u of partition view:work.rvl_jtag_int_32s_1s_0s_0s_5s_32s_32s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_gen.v":172:0:172:3|Instance tm_u of partition view:work.rvl_tm_Z4(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":96:0:96:7|Instance decode_u of partition view:work.rvl_decode_1s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":110:0:110:3|Instance tu_0 of partition view:work.rvl_tu_1s_0s_0s_0s_1s(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":130:0:130:3|Instance te_0 of partition view:work.rvl_te_Z2(verilog) has no references to its outputs; instance not removed. 
+@W: BN117 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_la0_trig_gen.v":162:0:162:5|Instance tcnt_0 of partition view:work.rvl_tcnt_1s_3s_1_0s(verilog) has no references to its outputs; instance not removed. 
+
+Finished clock optimization report phase (Real Time elapsed 0h:00m:04s; CPU Time elapsed 0h:00m:04s; Memory used current: 278MB peak: 278MB)
+
+@N: FX1184 |Applying syn_allowed_resources blockrams=208 on top level netlist RAW10toParallel 
+
+Finished netlist restructuring (Real Time elapsed 0h:00m:04s; CPU Time elapsed 0h:00m:04s; Memory used current: 278MB peak: 278MB)
+
+Some data will not be shown as it is part of encrypted module
+
+
+Clock Summary
+******************
+
+          Start                                     Requested     Requested     Clock        Clock          Clock
+Level     Clock                                     Frequency     Period        Type         Group          Load 
+-----------------------------------------------------------------------------------------------------------------
+0 -       RAW10toParallel|CSI2_sens_clk             349.0 MHz     2.865         inferred     (multiple)     1365 
+                                                                                                                 
+0 -       RAW10toParallel|clk_i                     391.7 MHz     2.553         inferred     (multiple)     308  
+                                                                                                                 
+0 -       reveal_coretop|jtck_inferred_clock[0]     368.6 MHz     2.713         inferred     (multiple)     225  
+=================================================================================================================
+
+
+
+Clock Load Summary
+***********************
+
+                                          Clock     Source                                                                         Clock Pin                                         Non-clock Pin     Non-clock Pin       
+Clock                                     Load      Pin                                                                            Seq Example                                       Seq Example       Comb Example        
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RAW10toParallel|CSI2_sens_clk             1365      CSI2_sens_clk(port)                                                            fv_i.C                                            -                 pixclk_out.I[0](inv)
+                                                                                                                                                                                                                           
+RAW10toParallel|clk_i                     308       clk_i(port)                                                                    hdmi_i2c_top_inst.hdmi_i2c_core_inst.scl_s2.C     -                 -                   
+                                                                                                                                                                                                                           
+reveal_coretop|jtck_inferred_clock[0]     225       RAW10toParallel_reveal_coretop_instance.jtagconn16_inst_0.jtck(jtagconn16)     -                                                 -                 -                   
+===========================================================================================================================================================================================================================
+
+@W: MT531 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17364:12:17364:15|Found signal identified as System clock which controls 61 sequential elements including i2c_inst.i2c_ctrl_inst.addr_reg_H[6].  Using this clock, which has no specified timing constraint, can prevent conversion of gated or generated clocks and can adversely impact design performance. 
+@W: MT529 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":4585:4:4585:9|Found inferred clock RAW10toParallel|CSI2_sens_clk which controls 1365 sequential elements including image_pipe_inst.U_inst1.linecnt[10:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
+@W: MT529 :"c:\users\gianpaolo\desktop\3x3_no_timing\impl1\reveal_workspace\tmpreveal\raw10toparallel_rvl.v":17334:4:17334:9|Found inferred clock RAW10toParallel|clk_i which controls 308 sequential elements including i2c_inst.i2c_ctrl_inst.step_cnt[11:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
+
+ICG Latch Removal Summary:
+Number of ICG latches removed: 0
+Number of ICG latches not removed:	0
+
+
+@S |Clock Optimization Summary
+
+
+
+#### START OF PREMAP CLOCK OPTIMIZATION REPORT #####[
+
+3 non-gated/non-generated clock tree(s) driving 1832 clock pin(s) of sequential element(s)
+3 gated/generated clock tree(s) driving 88 clock pin(s) of sequential element(s)
+0 instances converted, 88 sequential instances remain driven by gated/generated clocks
+
+===================================================== Non-Gated/Non-Generated Clocks ======================================================
+Clock Tree ID     Driving Element                                                    Drive Element Type     Fanout     Sample Instance     
+-------------------------------------------------------------------------------------------------------------------------------------------
+@KP:ckid0_0       CSI2_sens_clk                                                      port                   1299       pix_red[11:0]       
+@KP:ckid0_1       RAW10toParallel_reveal_coretop_instance.jtagconn16_inst_0.jtck     jtagconn16             225        ENCRYPTED           
+@KP:ckid0_2       clk_i                                                              port                   308        i2c_inst.count[28:0]
+===========================================================================================================================================
+==================================================================================================== Gated/Generated Clocks ====================================================================================================
+Clock Tree ID     Driving Element                                                  Drive Element Type     Unconverted Fanout     Sample Instance                                      Explanation                               
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+@KP:ckid0_3       hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.un1_step_cnt_6_uclk.OUT     or                     24                     hdmi_i2c_top_inst.hdmi_i2c_ctrl_inst.addr_dev[6]     Derived clock on input (not legal for GCC)
+@KP:ckid0_4       i2c_inst.i2c_ctrl_inst2.un1_step_cnt_4_uclk.OUT                  or                     32                     i2c_inst.i2c_ctrl_inst2.addr_dev[6]                  Derived clock on input (not legal for GCC)
+@KP:ckid0_5       i2c_inst.i2c_ctrl_inst.un1_step_cnt_4_uclk.OUT                   or                     32                     i2c_inst.i2c_ctrl_inst.addr_dev[6]                   Derived clock on input (not legal for GCC)
+================================================================================================================================================================================================================================
+
+
+##### END OF CLOCK OPTIMIZATION REPORT ######
+
+
+Summary of user generated gated clocks:
+0 user generated gated/generated clock tree(s) driving 0 clock pin(s) of sequential element(s)
+
+@N: FX1143 |Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized.
+Finished Pre Mapping Phase.
+
+Starting constraint checker (Real Time elapsed 0h:00m:06s; CPU Time elapsed 0h:00m:06s; Memory used current: 276MB peak: 278MB)
+
+
+Finished constraint checker preprocessing (Real Time elapsed 0h:00m:07s; CPU Time elapsed 0h:00m:07s; Memory used current: 277MB peak: 278MB)
+
+
+Finished constraint checker (Real Time elapsed 0h:00m:07s; CPU Time elapsed 0h:00m:07s; Memory used current: 279MB peak: 279MB)
+
+Pre-mapping successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:07s; CPU Time elapsed 0h:00m:07s; Memory used current: 184MB peak: 279MB)
+
+Process took 0h:00m:07s realtime, 0h:00m:07s cputime
+# Wed Apr  1 12:55:43 2026
+
+###########################################################]

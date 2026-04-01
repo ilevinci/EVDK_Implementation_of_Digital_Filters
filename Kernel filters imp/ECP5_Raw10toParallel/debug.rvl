@@ -1,0 +1,60 @@
+<Project ModBy="Inserter" SigType="0" Name="C:/Users/Gianpaolo/Desktop/3x3_no_timing/debug.rvl" Date="2026-03-25">
+    <IP Version="1_6_042617"/>
+    <Design DesignEntry="Schematic/Verilog HDL" Synthesis="synplify" DeviceFamily="ECP5UM" DesignName="Raw10toParallel"/>
+    <Core InsertDataset="0" Insert="1" Reveal_sig="687012148" Name="RAW10toParallel_LA0" ID="0">
+        <Setting>
+            <Clock SampleClk="image_pipe_inst/u_invert/clk" SampleEnable="0" EnableClk="" EnableClk_Pri="0"/>
+            <TraceBuffer Implementation="0" BitTimeStamp="0" hasTimeStamp="0" IncTrigSig="0" BufferDepth="8192"/>
+            <Capture Mode="0" MinSamplesPerTrig="32"/>
+            <Event CntEnable="0" MaxEventCnt="8"/>
+            <TrigOut Polarity="0" MinPulseWidth="0" TrigOutNetType="1" EnableTrigOut="0" TrigOutNet="reveal_debug_RAW10toParallel_LA0_net"/>
+            <DistRAM Disable="0"/>
+        </Setting>
+        <Dataset Name="Base">
+            <Trace>
+                <Bus Name="image_pipe_inst/u_invert/cooldown">
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:0"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:1"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:2"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:3"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:4"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:5"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:6"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:7"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/cooldown:8"/>
+                </Bus>
+                <Sig Type="SIG" Name="image_pipe_inst/u_invert/de_in"/>
+                <Bus Name="image_pipe_inst/u_invert/filter_active">
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/filter_active:0"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/filter_active:1"/>
+                </Bus>
+                <Bus Name="image_pipe_inst/u_invert/bright_count">
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:0"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:1"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:2"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:3"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:4"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:5"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:6"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:7"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:8"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:9"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:10"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:11"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:12"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:13"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:14"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:15"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:16"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:17"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:18"/>
+                    <Sig Type="SIG" Name="image_pipe_inst/u_invert/bright_count:19"/>
+                </Bus>
+            </Trace>
+            <Trigger>
+                <TU Serialbits="0" Type="0" ID="1" Sig="image_pipe_inst/u_invert/vsync_in,"/>
+                <TE MaxSequence="2" MaxEvnCnt="1" ID="1" Resource="0"/>
+            </Trigger>
+        </Dataset>
+    </Core>
+</Project>
